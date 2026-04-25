@@ -24,6 +24,18 @@
       <p style="font-size: 0.9em; color: #555;">Led 250M PKR CapEx upgrade and automation validation.</p>
     </td>
   </tr>
+  <tr>
+    <td style="width: 50%; padding: 10px; border: none;">
+      <a href="./projects/coal-unit-redesign">
+        <img src="assets/coal-thumb.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Coal Redesign Project">
+      </a>
+      <h3 style="margin-top: 10px; color: #003366;">⚙️ Capacity Expansion (+20%)</h3>
+      <p style="font-size: 0.9em; color: #555;">Redesigned coal grinding unit mechanics to increase throughput to 25 TPH, saving 7M PKR annually.</p>
+    </td>
+    <td style="width: 50%; padding: 10px; border: none; vertical-align: middle; text-align: center; color: #888;">
+      <i>New Project Placeholder</i>
+    </td>
+  </tr>
 </table>
 
 ---
