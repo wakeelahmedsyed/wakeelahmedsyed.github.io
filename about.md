@@ -1,3 +1,4 @@
 # About Me
-I am a Chemical Engineer with a passion for industrial efficiency. [Write your story here...]
-[← Back to Home](index.md)
+Beyond the heat balances and simulation models, I am driven by the challenge of **Industrial Sustainability**. I believe that the future of the cement and chemical industries lies in the intersection of traditional thermodynamics and machine learning.
+
+When I'm not auditing kilns, I am likely exploring new ways to automate safety protocols using Python.
