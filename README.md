@@ -1,3 +1,10 @@
+<div style="text-align: center; background-color: #f0f2f6; padding: 15px; border-radius: 10px; margin-bottom: 25px;">
+  <a href="index" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">🏠 Home</a> | 
+  <a href="about" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">👤 About</a> | 
+  <a href="cv" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">📄 CV</a> | 
+  <a href="certifications" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">📜 Certs</a> | 
+  <a href="contact" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">✉️ Contact</a>
+</div>
 # Syed Wakeel Ahmed
 ### Chemical Process Engineer | Operational Risk Governance
 
