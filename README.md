@@ -11,21 +11,21 @@
   <tr>
     <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
       <a href="./projects/jha-framework">
-        <img src="assets/chris-linnett-EeqxbxILScA-unsplash" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Risk Governance">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Risk Governance">
       </a>
       <h3 style="margin-top: 10px; color: #003366; font-size: 1.1em;">🛡️ Risk Governance</h3>
       <p style="font-size: 0.85em; color: #555;">Standardized JHA logic across 24 units using Python automation.</p>
     </td>
     <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
       <a href="./projects/commissioning-upgrade">
-        <img src="assets/chris-linnett-EeqxbxILScA-unsplash" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Commissioning">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Commissioning">
       </a>
       <h3 style="margin-top: 10px; color: #003366; font-size: 1.1em;">⚙️ Unit Commissioning</h3>
       <p style="font-size: 0.85em; color: #555;">Led 250M PKR upgrade, QA testing, and PLC logic validation.</p>
     </td>
     <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
       <a href="./projects/coal-unit-redesign">
-        <img src="assets/chris-linnett-EeqxbxILScA-unsplash" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Mechanical Redesign">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Mechanical Redesign">
       </a>
       <h3 style="margin-top: 10px; color: #003366; font-size: 1.1em;">🚀 Capacity Expansion</h3>
       <p style="font-size: 0.85em; color: #555;">Redesigned coal mill for +20% throughput (25 TPH).</p>
@@ -35,21 +35,21 @@
   <tr>
     <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
       <a href="./projects/pyro-audit">
-        <img src="assets/chris-linnett-EeqxbxILScA-unsplash" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Thermal Audit">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Thermal Audit">
       </a>
       <h3 style="margin-top: 10px; color: #003366; font-size: 1.1em;">🔥 Pyro-Process Audit</h3>
       <p style="font-size: 0.85em; color: #555;">Heat & Mass balance for Kiln Line-2 with 99.7% accuracy.</p>
     </td>
     <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
       <a href="./projects/solar-optimization">
-        <img src="assets/chris-linnett-EeqxbxILScA-unsplash" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Solar Optimization">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Solar Optimization">
       </a>
       <h3 style="margin-top: 10px; color: #003366; font-size: 1.1em;">☀️ Solar Predictive Mod.</h3>
       <p style="font-size: 0.85em; color: #555;">21MW Solar load optimization using Hypothesis Testing.</p>
     </td>
     <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
       <a href="./projects/lng-modelling">
-        <img src="assets/chris-linnett-EeqxbxILScA-unsplash" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="LNG Simulation">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="LNG Simulation">
       </a>
       <h3 style="margin-top: 10px; color: #003366; font-size: 1.1em;">💻 LNG System Design</h3>
       <p style="font-size: 0.85em; color: #555;">Aspen Plus/HYSYS simulation with 97.2% model accuracy.</p>
@@ -59,7 +59,7 @@
   <tr>
     <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
       <a href="./projects/pyro-design">
-        <img src="assets/chris-linnett-EeqxbxILScA-unsplash" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="4k TPD Design">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="4k TPD Design">
       </a>
       <h3 style="margin-top: 10px; color: #003366; font-size: 1.1em;">🏗️ 4,000 TPD Plant Design</h3>
       <p style="font-size: 0.85em; color: #555;">Complete process sizing for greenfield pyro-processing unit.</p>
