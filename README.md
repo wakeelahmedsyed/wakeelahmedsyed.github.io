@@ -56,7 +56,7 @@
     </td>
   </tr>
 
-  <tr>
+ <tr>
     <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
       <a href="./projects/pyro-design">
         <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="4k TPD Design">
@@ -64,7 +64,19 @@
       <h3 style="margin-top: 10px; color: #003366; font-size: 1.1em;">🏗️ 4,000 TPD Plant Design</h3>
       <p style="font-size: 0.85em; color: #555;">Complete process sizing for greenfield pyro-processing unit.</p>
     </td>
-    <td style="width: 33%; padding: 10px; border: none;"></td> <td style="width: 33%; padding: 10px; border: none;"></td> </tr>
+    <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
+      <a href="./projects/reliability-analysis">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Reliability Analysis">
+      </a>
+      <h3 style="margin-top: 10px; color: #003366; font-size: 1.1em;">📉 Reliability & Failure Analysis</h3>
+      <p style="font-size: 0.85em; color: #555;">Applied Poisson Distribution to analyze ClkBinLL failure modes in Cement Mill units.</p>
+    </td>
+    <td style="width: 33%; padding: 10px; border: none; vertical-align: top;">
+       <div style="border: 2px dashed #ddd; border-radius: 10px; padding: 30px; text-align: center; color: #888;">
+        <p style="font-size: 0.8em;">Future Project<br>Placeholder</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
