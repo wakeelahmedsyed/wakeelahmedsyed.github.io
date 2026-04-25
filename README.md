@@ -9,15 +9,19 @@
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="width: 50%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
-      <h3 style="margin-top: 0;">🛡️ Risk Governance</h3>
-      <p>Standardized JHA logic across 24 units at <b>Attock Cement</b>. Integrated a 5x5 matrix into a digital workflow.</p>
-      <a href="./projects/jha-framework">View Case Study & Python Tool →</a>
+    <td style="width: 50%; padding: 10px; border: none;">
+      <a href="./projects/jha-framework">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Risk Governance Project">
+      </a>
+      <h3 style="margin-top: 10px; color: #003366;">🛡️ Risk Governance</h3>
+      <p style="font-size: 0.9em; color: #555;">Standardized JHA logic across 24 units at Attock Cement.</p>
     </td>
-    <td style="width: 50%; vertical-align: top; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; background-color: #f8f9fa;">
-      <h3 style="margin-top: 0;">⚙️ Unit Commissioning</h3>
-      <p>Led <b>250M PKR</b> CapEx upgrade. Resolved automation errors and validated fluid dynamics via Darcy-Weisbach.</p>
-      <a href="./projects/commissioning-upgrade">View Technical Docs →</a>
+    <td style="width: 50%; padding: 10px; border: none;">
+      <a href="./projects/commissioning-upgrade">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Unit Commissioning Project">
+      </a>
+      <h3 style="margin-top: 10px; color: #003366;">⚙️ Unit Commissioning</h3>
+      <p style="font-size: 0.9em; color: #555;">Led 250M PKR CapEx upgrade and automation validation.</p>
     </td>
   </tr>
 </table>
