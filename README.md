@@ -81,14 +81,55 @@
 
 ---
 
-## 🛠️ Technical Skills Matrix
+## 🧰 Technical Skills Matrix
 
-| **Process Engineering** | **Safety & Compliance** | **Digital & Automation** |
-| :--- | :--- | :--- |
-| P&ID & PFD Development | HAZOP & SIL Leadership | Python (Data Science) |
-| Mass & Energy Balance | ISO 9001/14001/45001 | Streamlit Web Apps |
-| Equipment Sizing (Fans/Pumps) | JHA Framework Design | Aspen HYSYS / DWSIM |
-| Plant Commissioning | Root Cause Analysis (RCA) | AutoCAD |
+<table style="width: 100%; border-collapse: collapse; border: none; font-size: 0.9em;">
+  <tr style="background-color: #f0f2f6;">
+    <th style="padding: 10px; border: 1px solid #ddd;">Process & Design</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">Data & Reliability</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">Safety & Governance</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">Tools & Software</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+      • Mass & Energy Balances<br>
+      • Equipment Sizing (Kilns, Fans)<br>
+      • P&ID / PFD Development<br>
+      • Greenfield Plant Design<br>
+      • Unit Commissioning (CapEx)
+    </td>
+    <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+      • Predictive Load Modeling<br>
+      • Reliability Engineering (Poisson)<br>
+      • Hypothesis Testing (Z/T-tests)<br>
+      • Variance Analysis<br>
+      • Specific Energy Consumption (SEC)
+    </td>
+    <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+      • JHA Framework Design<br>
+      • HAZOP & SIL Leadership<br>
+      • ISO 9001, 14001, 45001<br>
+      • Root Cause Analysis (RCA)<br>
+      • Operational Risk Mitigation
+    </td>
+    <td style="padding: 10px; border: 1px solid #ddd; vertical-align: top;">
+      • <b>Simulation:</b> Aspen HYSYS/Plus<br>
+      • <b>Computing:</b> Python (Pandas/NumPy)<br>
+      • <b>CAD:</b> AutoCAD<br>
+      • <b>Dashboards:</b> Streamlit<br>
+      • <b>Industrial:</b> PLC Logic/SCADA
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aspen_HYSYS-EE0000?style=flat-square&logo=aspen&logoColor=white" alt="Aspen">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/DWSIM-005195?style=flat-square&logo=scientific-linux&logoColor=white" alt="DWSIM">
+</p>
 
 ---
 
