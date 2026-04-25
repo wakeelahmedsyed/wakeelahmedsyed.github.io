@@ -1,10 +1,27 @@
-<div style="text-align: center; background-color: #f0f2f6; padding: 15px; border-radius: 10px; margin-bottom: 25px;">
-  <a href="index" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">🏠 Home</a> | 
-  <a href="about" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">👤 About</a> | 
-  <a href="cv" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">📄 CV</a> | 
-  <a href="certifications" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">📜 Certs</a> | 
-  <a href="contact" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">✉️ Contact</a>
-</div>
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <td style="width: 25%; vertical-align: top; border-right: 1px solid #eee; padding-right: 20px;">
+      <div style="position: sticky; top: 20px;">
+        <img src="assets/profile-pic.jpg" style="width: 100%; border-radius: 50%; margin-bottom: 20px;" alt="Wakeel Ahmed Syed">
+        <nav>
+          <ul style="list-style: none; padding: 0;">
+            <li style="margin-bottom: 15px;"><a href="index" style="text-decoration: none; color: #003366; font-weight: bold;">🏠 Dashboard</a></li>
+            <li style="margin-bottom: 15px;"><a href="about" style="text-decoration: none; color: #003366; font-weight: bold;">👤 About Me</a></li>
+            <li style="margin-bottom: 15px;"><a href="cv" style="text-decoration: none; color: #003366; font-weight: bold;">📄 Experience / CV</a></li>
+            <li style="margin-bottom: 15px;"><a href="certifications" style="text-decoration: none; color: #003366; font-weight: bold;">📜 Certifications</a></li>
+            <li style="margin-bottom: 15px;"><a href="contact" style="text-decoration: none; color: #003366; font-weight: bold;">✉️ Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </td>
+    <td style="width: 75%; vertical-align: top; padding-left: 30px;">
+      <h1>Wakeel Ahmed Syed</h1>
+      <h3>Chemical Process Engineer | Operational Risk Governance</h3>
+      <p>I specialize in <b>Process Optimization</b> and <b>Industrial Data Science</b>. With a background in heavy industrial manufacturing (Cement), I bridge the gap between first-principles engineering and modern predictive analytics.</p>
+      <img src="https://img.shields.io/badge/PEC_Registered-Engineer-blue" alt="PEC">
+    </td>
+  </tr>
+</table>
 
 # Syed Wakeel Ahmed
 ### Chemical Process Engineer | Operational Risk Governance
