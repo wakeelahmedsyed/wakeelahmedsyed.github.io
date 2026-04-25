@@ -9,7 +9,7 @@
         
         <hr style="border: 0; border-top: 1px solid #eaecef; margin: 15px 0;">
         
-        <nav style="font-size: 0.82em; line-height: 2.2;">
+        <nav style="font-size: 0.62em; line-height: 2.2;">
           <a href="index" style="color: #0366d6; text-decoration: none;">🏠 <b>Dashboard</b></a><br>
           <a href="about" style="color: #444; text-decoration: none;">👤 About Me</a><br>
           <a href="cv" style="color: #444; text-decoration: none;">📄 Experience / CV</a><br>
