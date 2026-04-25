@@ -1,57 +1,57 @@
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <img src="assets/profile-pic.jpg" width="100%">
-      <h3>Syed Wakeel Ahmed</h3>
-      <p>Chemical Process Engineer</p>
-      <hr>
-      <a href="index">🏠 Dashboard</a><br>
-      <a href="about">👤 About Me</a><br>
-      <a href="cv">📄 Experience / CV</a><br>
-      <a href="certifications">📜 Certifications</a><br>
-      <a href="contact">✉️ Contact</a>
-      <hr>
-      <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-    </td>
+# Syed Wakeel Ahmed
+### Chemical Process Engineer | Operational Risk Governance | Data-Driven Optimizer
 
-    <td width="75%" valign="top">
-      <h1>Industrial Process Portfolio</h1>
-      <p>I specialize in <b>Process Optimization</b> and <b>Industrial Data Science</b>.</p>
-      <img src="https://img.shields.io/badge/PEC_Registered-Engineer-blue">
+<p align="left">
+  <a href="index"><b>🏠 Dashboard</b></a> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <a href="about"><b>👤 About Me</b></a> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <a href="cv"><b>📄 Experience / CV</b></a> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <a href="certifications"><b>📜 Certifications</b></a> &nbsp;&nbsp;•&nbsp;&nbsp; 
+  <a href="contact"><b>✉️ Contact</b></a>
+</p>
 
-      <h3>🏗️ Engineering Project Portfolio</h3>
+---
 
-      <a href="./projects/jha-framework"><b>🛡️ Risk Governance</b></a> | 
-      <a href="./projects/commissioning-upgrade"><b>⚙️ Commissioning</b></a> | 
-      <a href="./projects/coal-unit-redesign"><b>🚀 Expansion</b></a>
-      <br>
-      <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="30%"> &nbsp; <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="30%"> &nbsp; <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="30%">
-      
-      <br><br>
+> **Executive Summary:** Chemical Engineer specialized in the cement industry, bridging the gap between first-principles thermodynamics and modern data analytics. I turn complex industrial data into actionable engineering strategies.
 
-      <a href="./projects/pyro-audit"><b>🔥 Pyro Audit</b></a> | 
-      <a href="./projects/solar-optimization"><b>☀️ Solar Modeling</b></a> | 
-      <a href="./projects/lng-modelling"><b>💻 LNG Design</b></a>
-      <br>
-      <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="30%"> &nbsp; <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="30%"> &nbsp; <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="30%">
+---
 
-      <br><br>
+## 🏗️ Engineering Project Portfolio
 
-      <a href="./projects/pyro-design"><b>🏗️ 4k TPD Design</b></a> | 
-      <a href="./projects/reliability-analysis"><b>📉 Reliability</b></a> | 
-      <b>🔜 Future</b>
-      <br>
-      <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="30%"> &nbsp; <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="30%"> &nbsp; <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="30%">
+| 🛡️ [Risk Governance](./projects/jha-framework) | ⚙️ [Commissioning](./projects/commissioning-upgrade) | 🚀 [Capacity Expansion](./projects/coal-unit-redesign) |
+| :---: | :---: | :---: |
+| [![JHA](assets/chris-linnett-EeqxbxILScA-unsplash.jpg)](./projects/jha-framework) | [![Comm](assets/chris-linnett-EeqxbxILScA-unsplash.jpg)](./projects/commissioning-upgrade) | [![Coal](assets/chris-linnett-EeqxbxILScA-unsplash.jpg)](./projects/coal-unit-redesign) |
+| Standardized JHA logic across 24 units using Python automation. | Led 250M PKR upgrade, QA testing, and PLC logic validation. | Redesigned coal mill for +20% throughput (25 TPH). |
 
-      <hr>
+| 🔥 [Pyro-Process Audit](./projects/pyro-audit) | ☀️ [Solar Predictive Mod.](./projects/solar-optimization) | 💻 [LNG System Design](./projects/lng-modelling) |
+| :---: | :---: | :---: |
+| [![Pyro](assets/chris-linnett-EeqxbxILScA-unsplash.jpg)](./projects/pyro-audit) | [![Solar](assets/chris-linnett-EeqxbxILScA-unsplash.jpg)](./projects/solar-optimization) | [![LNG](assets/chris-linnett-EeqxbxILScA-unsplash.jpg)](./projects/lng-modelling) |
+| Heat & Mass balance for Kiln Line-2 with 99.7% accuracy. | 21MW Solar load optimization using Hypothesis Testing. | Aspen Plus/HYSYS simulation with 97.2% model accuracy. |
 
-      <h3>🧰 Technical Skills Matrix</h3>
-      <ul>
-        <li><b>Design:</b> Mass/Energy Balances, Equipment Sizing</li>
-        <li><b>Data:</b> Predictive Modeling, Reliability Engineering</li>
-        <li><b>Safety:</b> JHA/HAZOP, Root Cause Analysis</li>
-        <li><b>Tools:</b> Aspen HYSYS, Python, AutoCAD</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| 🏗️ [4,000 TPD Plant Design](./projects/pyro-design) | 📉 [Reliability Analysis](./projects/reliability-analysis) | 🔜 [Future Projects](#) |
+| :---: | :---: | :---: |
+| [![Design](assets/chris-linnett-EeqxbxILScA-unsplash.jpg)](./projects/pyro-design) | [![Reliability](assets/chris-linnett-EeqxbxILScA-unsplash.jpg)](./projects/reliability-analysis) | <img src="https://via.placeholder.com/300x180?text=In+Progress" width="250"> |
+| Complete process sizing for greenfield pyro-processing unit. | Applied Poisson Distribution to analyze failure rate trends. | New industrial case studies in development. |
+
+---
+
+## 🧰 Technical Skills Matrix
+
+| **Process & Design** | **Data & Reliability** | **Safety & Governance** | **Tools & Software** |
+| :--- | :--- | :--- | :--- |
+| • Mass & Energy Balances | • Predictive Modeling | • JHA Framework Design | • **Simulation:** Aspen HYSYS/Plus |
+| • Equipment Sizing | • Reliability (Poisson) | • HAZOP & SIL Leadership | • **Computing:** Python (Pandas) |
+| • Greenfield Design | • Variance Analysis | • Root Cause Analysis | • **CAD:** AutoCAD |
+| • Unit Commissioning | • SEC Optimization | • Operational Risk | • **Industrial:** PLC / SCADA |
+
+---
+
+## 📈 Professional Trajectory
+I am a results-oriented Process Engineer with a focus on **Operational Excellence**. I help industrial plants reduce risk and increase throughput by integrating modern data automation into traditional chemical engineering workflows.
+
+**Core Industries:** Cement Manufacturing, Industrial Chemicals, Process Safety.
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/wakeelahmedsyed"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+</p>
