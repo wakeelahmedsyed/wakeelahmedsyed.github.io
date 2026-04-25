@@ -61,5 +61,18 @@ The final step was defining mitigation strategies in order of effectiveness:
 ## 💻 Python for Safety Governance
 To manage the data from 24 units, I utilized Python to aggregate risk scores and identify "High-Risk Hotspots" across the plant. This allowed management to prioritize capital expenditure (CAPEX) for safety upgrades where they were needed most.
 
+
+# Example: Python Logic for Automated Risk Calculation
+def calculate_risk(probability, severity):
+    score = probability * severity
+    if score >= 15:
+        return "Critical - Engineering Controls Mandatory"
+    elif score >= 8:
+        return "Medium - Admin Controls & PPE required"
+    else:
+        return "Low - Standard Operating Procedures"
+
+# This logic was used to standardize ratings across 24 units.
+
 ---
 [← Back to Home](/)
