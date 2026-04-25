@@ -37,39 +37,39 @@
       <table width="100%" border="0" cellspacing="8" cellpadding="0">
         <tr>
           <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
-            <a href="./projects/jha-framework"><img src="assets/jha-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
+            <a href="./projects/jha-framework"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.72em; margin-top: 8px;"><b>🛡️ Risk Governance</b><br>Python JHA Automation</p>
           </td>
           <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
-            <a href="./projects/commissioning-upgrade"><img src="assets/commissioning-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
+            <a href="./projects/commissioning-upgrade"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.72em; margin-top: 8px;"><b>⚙️ Commissioning</b><br>250M PKR Upgrade</p>
           </td>
           <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
-            <a href="./projects/coal-unit-redesign"><img src="assets/coal-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
+            <a href="./projects/coal-unit-redesign"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.72em; margin-top: 8px;"><b>🚀 Expansion</b><br>+20% Throughput</p>
           </td>
         </tr>
         <tr>
           <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
-            <a href="./projects/pyro-audit"><img src="assets/pyro-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
+            <a href="./projects/pyro-audit"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.72em; margin-top: 8px;"><b>🔥 Pyro Audit</b><br>99.7% Accuracy</p>
           </td>
           <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
-            <a href="./projects/solar-optimization"><img src="assets/solar-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
+            <a href="./projects/solar-optimization"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.72em; margin-top: 8px;"><b>☀️ Solar Modeling</b><br>21MW Optimization</p>
           </td>
           <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
-            <a href="./projects/lng-modelling"><img src="assets/lng-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
+            <a href="./projects/lng-modelling"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.72em; margin-top: 8px;"><b>💻 LNG Design</b><br>Aspen HYSYS Modeling</p>
           </td>
         </tr>
         <tr>
           <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
-            <a href="./projects/pyro-design"><img src="assets/design-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
+            <a href="./projects/pyro-design"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.72em; margin-top: 8px;"><b>🏗️ 4k TPD Design</b><br>Process Sizing</p>
           </td>
           <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
-            <a href="./projects/reliability-analysis"><img src="assets/reliability-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
+            <a href="./projects/reliability-analysis"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.72em; margin-top: 8px;"><b>📉 Reliability</b><br>Poisson Modeling</p>
           </td>
           <td width="33%" valign="middle" style="text-align: center; border: 1px dashed #ddd; border-radius: 8px;">
