@@ -10,11 +10,11 @@
         <hr style="border: 0; border-top: 1px solid #eaecef; margin: 15px 0;">
         
         <nav style="font-size: 0.62em; line-height: 2.2;">
-          <a href="index" style="color: #0366d6; text-decoration: none;">🏠 <b>Dashboard</b></a><br>
-          <a href="about" style="color: #444; text-decoration: none;">👤 About Me</a><br>
-          <a href="cv" style="color: #444; text-decoration: none;">📄 Experience / CV</a><br>
-          <a href="certifications" style="color: #444; text-decoration: none;">📜 Certifications</a><br>
-          <a href="contact" style="color: #444; text-decoration: none;">✉️ Contact</a>
+          <a href="index" style="color: #0366d6; text-decoration: none;"> <b>Dashboard</b></a><br>
+          <a href="about" style="color: #444; text-decoration: none;"> About Me</a><br>
+          <a href="cv" style="color: #444; text-decoration: none;"> Curriculum Vitae</a><br>
+          <a href="certifications" style="color: #444; text-decoration: none;"> Certifications</a><br>
+          <a href="contact" style="color: #444; text-decoration: none;"> Contact</a>
         </nav>
         
         <hr style="border: 0; border-top: 1px solid #eaecef; margin: 15px 0;">
