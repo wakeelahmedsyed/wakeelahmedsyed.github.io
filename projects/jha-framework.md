@@ -75,7 +75,12 @@ def calculate_risk(probability, severity):
         
 ---
 
-# This logic was used to standardize ratings across 24 units. 
+# This logic was used to standardize ratings across 24 units.
 
 ---
+
+### 🚀 Interactive Tool
+I developed a digital version of my risk framework using Python. 
+**[Launch Live JHA Risk Calculator](https://jha-risk-tool-ysnzxbxkyryumzdvf2tcrw.streamlit.app/)**
+
 [← Back to Home](/)
