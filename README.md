@@ -27,7 +27,7 @@
   <tr>
     <td style="width: 50%; padding: 10px; border: none;">
       <a href="./projects/coal-unit-redesign">
-        <img src="assets/assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Coal Redesign Project">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Coal Redesign Project">
       </a>
       <h3 style="margin-top: 10px; color: #003366;">⚙️ Capacity Expansion (+20%)</h3>
       <p style="font-size: 0.9em; color: #555;">Redesigned coal grinding unit mechanics to increase throughput to 25 TPH, saving 7M PKR annually.</p>
