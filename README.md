@@ -29,10 +29,16 @@ I specialize in bridging the gap between **Complex Process Engineering** and **S
     <a href="./projects/jha-framework" style="background-color: #003366; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-size: 0.9em; display: inline-block;">View Case Study & Interactive Tool →</a>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; opacity: 0.8; background-color: #fafafa;">
-    <h3 style="margin-top: 0; color: #555;">Next Project: [Process Optimization / Simulation]</h3>
-    <p>Currently documenting a new case study involving plant debottlenecking and efficiency modeling.</p>
-    <span style="color: #888; font-style: italic;">Coming Soon...</span>
+  <div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
+    <h3 style="margin-top: 0; color: #003366;">250M PKR Unit Commissioning & QA</h3>
+    <p><b>Attock Cement Limited</b></p>
+    <p>Supervised cold commissioning for a major system upgrade. Performed airflow and pressure-drop calculations to validate equipment specs and resolved critical PLC sequencing errors.</p>
+    <div style="margin: 15px 0;">
+      <span style="background: #f0f2f6; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; border: 1px solid #d1d5da;">CapEx Management</span>
+      <span style="background: #f0f2f6; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; border: 1px solid #d1d5da;">Fluid Dynamics</span>
+      <span style="background: #f0f2f6; padding: 5px 10px; border-radius: 5px; font-size: 0.8em; border: 1px solid #d1d5da;">PLC Testing</span>
+    </div>
+    <a href="./projects/commissioning-upgrade" style="background-color: #003366; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-size: 0.9em; display: inline-block;">View Technical Documentation →</a>
   </div>
 
 </div>
