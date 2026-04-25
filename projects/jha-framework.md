@@ -63,6 +63,7 @@ To manage the data from 24 units, I utilized Python to aggregate risk scores and
 
 
 # Example: Python Logic for Automated Risk Calculation
+---
 def calculate_risk(probability, severity):
     score = probability * severity
     if score >= 15:
@@ -71,8 +72,10 @@ def calculate_risk(probability, severity):
         return "Medium - Admin Controls & PPE required"
     else:
         return "Low - Standard Operating Procedures"
+        
+---
 
-# This logic was used to standardize ratings across 24 units.
+# This logic was used to standardize ratings across 24 units. 
 
 ---
 [← Back to Home](/)
