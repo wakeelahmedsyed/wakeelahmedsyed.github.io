@@ -5,6 +5,7 @@
   <a href="certifications" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">📜 Certs</a> | 
   <a href="contact" style="margin: 0 15px; text-decoration: none; color: #003366; font-weight: bold;">✉️ Contact</a>
 </div>
+
 # Syed Wakeel Ahmed
 ### Chemical Process Engineer | Operational Risk Governance
 
