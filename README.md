@@ -1,79 +1,87 @@
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
   <tr>
-    <td width="25%" valign="top" style="border-right: 1px solid #eeeeee; padding-right: 15px;">
-        <img src="assets/profile-pic.jpg" width="100%" style="border-radius: 8px;">
-        <h3 style="margin-bottom: 5px;">Syed Wakeel Ahmed</h3>
-        <p style="font-size: 12px; color: #666;">Chemical Process Engineer</p>
-        <hr>
-        <p style="line-height: 1.8;">
-          <a href="index">🏠 Dashboard</a><br>
-          <a href="about">👤 About Me</a><br>
-          <a href="cv">📄 Experience / CV</a><br>
-          <a href="certifications">📜 Certifications</a><br>
-          <a href="contact">✉️ Contact</a>
-        </p>
-        <hr>
-        <p style="font-size: 12px;">
-          <a href="YOUR_LINKEDIN_URL">LinkedIn</a> | <a href="https://github.com/wakeelahmedsyed">GitHub</a>
-        </p>
+    <td width="22%" valign="top" style="border-right: 1px solid #eeeeee; padding-right: 15px;">
+      <div style="position: sticky; top: 10px;">
+        <img src="assets/profile-pic.jpg" width="100%" style="border-radius: 10px; margin-bottom: 15px;">
+        
+        <h4 style="margin: 0; font-size: 1.1em; color: #24292e;">Syed Wakeel Ahmed</h4>
+        <p style="font-size: 0.75em; color: #6a737d; margin-top: 4px; line-height: 1.2;">Chemical Process Engineer<br>Operational Risk Governance</p>
+        
+        <hr style="border: 0; border-top: 1px solid #eaecef; margin: 15px 0;">
+        
+        <nav style="font-size: 0.82em; line-height: 2.2;">
+          <a href="index" style="color: #0366d6; text-decoration: none;">🏠 <b>Dashboard</b></a><br>
+          <a href="about" style="color: #444; text-decoration: none;">👤 About Me</a><br>
+          <a href="cv" style="color: #444; text-decoration: none;">📄 Experience / CV</a><br>
+          <a href="certifications" style="color: #444; text-decoration: none;">📜 Certifications</a><br>
+          <a href="contact" style="color: #444; text-decoration: none;">✉️ Contact</a>
+        </nav>
+        
+        <hr style="border: 0; border-top: 1px solid #eaecef; margin: 15px 0;">
+        
+        <div style="font-size: 0.75em; color: #6a737d;">
+          <a href="YOUR_LINKEDIN_URL" style="color: #0366d6; text-decoration: none;">LinkedIn</a> • 
+          <a href="https://github.com/wakeelahmedsyed" style="color: #0366d6; text-decoration: none;">GitHub</a>
+        </div>
+      </div>
     </td>
 
-    <td width="75%" valign="top" style="padding-left: 20px;">
-      <h1 style="margin-top: 0;">Industrial Process Portfolio</h1>
-      <p style="font-size: 14px;">Optimizing heavy industrial manufacturing through <b>Predictive Analytics</b> and <b>Process Modeling</b>.</p>
+    <td width="78%" valign="top" style="padding-left: 25px;">
+      <h2 style="margin-top: 0; font-weight: 600; color: #24292e;">Industrial Process Portfolio</h2>
+      <p style="font-size: 0.95em; color: #444; line-height: 1.5;">Optimizing industrial manufacturing through <b>Predictive Analytics</b> and <b>Process Modeling</b>.</p>
       
-      <hr>
+      <hr style="border: 0; border-top: 1px solid #eaecef; margin: 20px 0;">
 
-      <h3>🏗️ Engineering Project Portfolio</h3>
+      <h4 style="color: #003366; margin-bottom: 15px;">🏗️ Project Portfolio</h4>
 
-      <table width="100%" border="0" cellspacing="5" cellpadding="5">
+      <table width="100%" border="0" cellspacing="8" cellpadding="0">
         <tr>
-          <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
             <a href="./projects/jha-framework"><img src="assets/jha-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
-            <p style="font-size: 11px; margin-top: 5px;"><b>🛡️ Risk Governance</b><br>Python JHA Automation</p>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>🛡️ Risk Governance</b><br>Python JHA Automation</p>
           </td>
-          <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
             <a href="./projects/commissioning-upgrade"><img src="assets/commissioning-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
-            <p style="font-size: 11px; margin-top: 5px;"><b>⚙️ Commissioning</b><br>250M PKR Upgrade</p>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>⚙️ Commissioning</b><br>250M PKR Upgrade</p>
           </td>
-          <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
             <a href="./projects/coal-unit-redesign"><img src="assets/coal-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
-            <p style="font-size: 11px; margin-top: 5px;"><b>🚀 Expansion</b><br>+20% Throughput</p>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>🚀 Expansion</b><br>+20% Throughput</p>
           </td>
         </tr>
         <tr>
-          <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
             <a href="./projects/pyro-audit"><img src="assets/pyro-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
-            <p style="font-size: 11px; margin-top: 5px;"><b>🔥 Pyro Audit</b><br>99.7% Accuracy</p>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>🔥 Pyro Audit</b><br>99.7% Accuracy</p>
           </td>
-          <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
             <a href="./projects/solar-optimization"><img src="assets/solar-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
-            <p style="font-size: 11px; margin-top: 5px;"><b>☀️ Solar Modeling</b><br>21MW Optimization</p>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>☀️ Solar Modeling</b><br>21MW Optimization</p>
           </td>
-          <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
             <a href="./projects/lng-modelling"><img src="assets/lng-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
-            <p style="font-size: 11px; margin-top: 5px;"><b>💻 LNG Design</b><br>Aspen HYSYS Modeling</p>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>💻 LNG Design</b><br>Aspen HYSYS Modeling</p>
           </td>
         </tr>
         <tr>
-          <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
             <a href="./projects/pyro-design"><img src="assets/design-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
-            <p style="font-size: 11px; margin-top: 5px;"><b>🏗️ 4k TPD Design</b><br>Process Sizing</p>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>🏗️ 4k TPD Design</b><br>Process Sizing</p>
           </td>
-          <td width="33%" valign="top" style="background: #f9f9f9; border-radius: 8px; padding: 10px;">
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
             <a href="./projects/reliability-analysis"><img src="assets/reliability-thumb.jpg" width="100%" style="border-radius: 4px;"></a>
-            <p style="font-size: 11px; margin-top: 5px;"><b>📉 Reliability</b><br>Poisson Modeling</p>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>📉 Reliability</b><br>Poisson Modeling</p>
           </td>
           <td width="33%" valign="middle" style="text-align: center; border: 1px dashed #ddd; border-radius: 8px;">
-            <p style="font-size: 10px; color: #999;">Case Studies<br>In Progress</p>
+            <p style="font-size: 0.65em; color: #999;">Ongoing Case Studies</p>
           </td>
         </tr>
       </table>
 
-      <hr>
+      <hr style="border: 0; border-top: 1px solid #eaecef; margin: 25px 0;">
 
-      <h3>🧰 Technical Skills</h3>
-      <p style="font-size: 13px;">
+      <h4 style="color: #003366; margin-bottom: 10px;">🧰 Technical Skills</h4>
+      <p style="font-size: 0.85em; color: #444; line-height: 1.6;">
         <b>Process:</b> Mass & Energy Balances, Equipment Sizing, Commissioning<br>
         <b>Analytics:</b> Predictive Modeling, Reliability, Variance Analysis<br>
         <b>Software:</b> Aspen HYSYS, Python (Pandas), AutoCAD, PLC Logic
