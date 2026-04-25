@@ -34,46 +34,46 @@
       <table style="width: 100%; border: none; border-collapse: collapse;">
         <tr>
           <td style="width: 33%; padding: 10px; vertical-align: top;">
-            <a href="./projects/jha-framework"><img src="assets/jha-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <a href="./projects/jha-framework"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 8px;"></a>
             <h4 style="margin: 10px 0 5px 0;">🛡️ Risk Governance</h4>
             <p style="font-size: 0.7em;">Python JHA automation across 24 units.</p>
           </td>
           <td style="width: 33%; padding: 10px; vertical-align: top;">
-            <a href="./projects/commissioning-upgrade"><img src="assets/commissioning-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <a href="./projects/commissioning-upgrade"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 8px;"></a>
             <h4 style="margin: 10px 0 5px 0;">⚙️ Commissioning</h4>
             <p style="font-size: 0.7em;">250M PKR upgrade & PLC validation.</p>
           </td>
           <td style="width: 33%; padding: 10px; vertical-align: top;">
-            <a href="./projects/coal-unit-redesign"><img src="assets/coal-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <a href="./projects/coal-unit-redesign"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 8px;"></a>
             <h4 style="margin: 10px 0 5px 0;">🚀 Capacity Expansion</h4>
             <p style="font-size: 0.7em;">+20% throughput coal mill redesign.</p>
           </td>
         </tr>
         <tr>
           <td style="width: 33%; padding: 10px; vertical-align: top;">
-            <a href="./projects/pyro-audit"><img src="assets/pyro-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <a href="./projects/pyro-audit"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 8px;"></a>
             <h4 style="margin: 10px 0 5px 0;">🔥 Pyro Audit</h4>
             <p style="font-size: 0.7em;">Line-2 audit with 99.7% accuracy.</p>
           </td>
           <td style="width: 33%; padding: 10px; vertical-align: top;">
-            <a href="./projects/solar-optimization"><img src="assets/solar-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <a href="./projects/solar-optimization"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 8px;"></a>
             <h4 style="margin: 10px 0 5px 0;">☀️ Solar Modeling</h4>
             <p style="font-size: 0.7em;">21MW predictive load optimization.</p>
           </td>
           <td style="width: 33%; padding: 10px; vertical-align: top;">
-            <a href="./projects/lng-modelling"><img src="assets/lng-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <a href="./projects/lng-modelling"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 8px;"></a>
             <h4 style="margin: 10px 0 5px 0;">💻 LNG Design</h4>
             <p style="font-size: 0.7em;">97.2% Aspen HYSYS model accuracy.</p>
           </td>
         </tr>
         <tr>
           <td style="width: 33%; padding: 10px; vertical-align: top;">
-            <a href="./projects/pyro-design"><img src="assets/design-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <a href="./projects/pyro-design"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 8px;"></a>
             <h4 style="margin: 10px 0 5px 0;">🏗️ 4k TPD Design</h4>
             <p style="font-size: 0.7em;">Greenfield pyro-unit process sizing.</p>
           </td>
           <td style="width: 33%; padding: 10px; vertical-align: top;">
-            <a href="./projects/reliability-analysis"><img src="assets/reliability-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <a href="./projects/reliability-analysis"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 8px;"></a>
             <h4 style="margin: 10px 0 5px 0;">📉 Reliability</h4>
             <p style="font-size: 0.7em;">Poisson modeling for failure rates.</p>
           </td>
