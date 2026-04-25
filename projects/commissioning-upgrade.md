@@ -1,3 +1,5 @@
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 <div style="background-color: #f0f2f6; padding: 30px; border-radius: 15px; border-left: 10px solid #d4af37; margin-bottom: 20px;">
   <h1 style="margin: 0; color: #003366; font-family: sans-serif;">Process Unit Commissioning</h1>
   <p style="margin: 5px 0 0 0; font-style: italic; color: #555; font-size: 1.2em;">Attock Cement Limited | 250M PKR System Upgrade</p>
