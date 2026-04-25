@@ -1,3 +1,10 @@
+<div style="background-color: #f0f2f6; padding: 20px; border-radius: 10px; border-left: 10px solid #003366;">
+  <h1 style="margin: 0; color: #003366;">Operational Risk Governance</h1>
+  <p style="margin: 5px 0 0 0; font-style: italic; color: #555;">Attock Cement Limited | JHA Framework Standardization</p>
+</div>
+
+---
+
 # Case Study: JHA Framework Standardization
 **Location:** Attock Cement Limited (ACL)  
 **Role:** Operational Risk Governance Lead  
