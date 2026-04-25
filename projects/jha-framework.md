@@ -59,3 +59,4 @@ def calculate_risk(probability, severity):
         return "Medium - Admin Controls & PPE required"
     else:
         return "Low - Standard Operating Procedures"
+```
