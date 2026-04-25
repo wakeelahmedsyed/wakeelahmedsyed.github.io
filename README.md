@@ -2,7 +2,7 @@
   <tr>
     <td width="22%" valign="top" style="border-right: 1px solid #eeeeee; padding-right: 15px;">
       <div style="position: sticky; top: 10px;">
-        <img src="assets/profile-pic.jpg" width="100%" style="border-radius: 10px; margin-bottom: 15px;">
+        <img src="assets/IMG-20230613-WA0042.jpg" width="100%" style="border-radius: 10px; margin-bottom: 15px;">
         
         <h4 style="margin: 0; font-size: 1.1em; color: #24292e;">Syed Wakeel Ahmed</h4>
         <p style="font-size: 0.75em; color: #6a737d; margin-top: 4px; line-height: 1.2;">Chemical Process Engineer<br>Operational Risk Governance</p>
