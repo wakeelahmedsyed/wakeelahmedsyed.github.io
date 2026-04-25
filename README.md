@@ -1,104 +1,108 @@
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="width: 25%; vertical-align: top; border-right: 1px solid #eeeeee; padding-right: 20px;">
+      <img src="assets/profile-pic.jpg" style="width: 100%; border-radius: 10px; margin-bottom: 20px;" alt="Syed Wakeel Ahmed">
+      <h2 style="margin-top: 0; color: #003366;">Syed Wakeel Ahmed</h2>
+      <p style="font-size: 0.85em; color: #555;">Chemical Process Engineer | Operational Risk Governance</p>
+      <hr>
+      <nav style="line-height: 2;">
+        <a href="index" style="text-decoration: none; font-weight: bold;">🏠 Dashboard</a><br>
+        <a href="about" style="text-decoration: none; font-weight: bold;">👤 About Me</a><br>
+        <a href="cv" style="text-decoration: none; font-weight: bold;">📄 Experience / CV</a><br>
+        <a href="certifications" style="text-decoration: none; font-weight: bold;">📜 Certifications</a><br>
+        <a href="contact" style="text-decoration: none; font-weight: bold;">✉️ Contact</a>
+      </nav>
+      <hr>
+      <p style="font-size: 0.8em;">
+        <a href="YOUR_LINKEDIN_URL">LinkedIn</a> | <a href="https://github.com/wakeelahmedsyed">GitHub</a>
+      </p>
+    </td>
 
-  <div style="flex: 1; min-width: 220px; border-right: 1px solid #eee; padding-right: 20px;">
-    <img src="assets/profile-pic.jpg" style="width: 100%; border-radius: 50%; border: 1px solid #ddd;" alt="Syed Wakeel Ahmed">
-    <h2 style="color: #003366; margin-top: 15px;">Syed Wakeel Ahmed</h2>
-    <p style="font-size: 0.9em; color: #555;">Chemical Process Engineer | Operational Risk Governance</p>
-    <hr>
-    <nav style="line-height: 2.2;">
-      <a href="index" style="text-decoration: none;">🏠 Dashboard</a><br>
-      <a href="about" style="text-decoration: none;">👤 About Me</a><br>
-      <a href="cv" style="text-decoration: none;">📄 Experience / CV</a><br>
-      <a href="certifications" style="text-decoration: none;">📜 Certifications</a><br>
-      <a href="contact" style="text-decoration: none;">✉️ Contact</a>
-    </nav>
-    <hr>
-    <div style="font-size: 0.85em;">
-      <a href="YOUR_LINKEDIN_URL">LinkedIn</a> | <a href="https://github.com/wakeelahmedsyed">GitHub</a><br>
-      <a href="mailto:YOUR_EMAIL">Email Me</a>
-    </div>
-  </div>
-
-  <div style="flex: 3; min-width: 300px;">
-    <h1 style="margin-top: 0;">Industrial Process Portfolio</h1>
-    <p>Specializing in <b>Process Optimization</b> and <b>Industrial Data Science</b>. Bridging first-principles engineering with modern predictive analytics.</p>
-    
-    <img src="https://img.shields.io/badge/PEC_Registered-Engineer-blue" alt="PEC">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-
-    <hr>
-
-    <h2 style="color: #003366;">🏗️ Engineering Project Portfolio</h2>
-
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+    <td style="width: 75%; vertical-align: top; padding-left: 30px;">
+      <h1 style="margin-top: 0;">Industrial Process Portfolio</h1>
+      <p>Bridging the gap between first-principles chemical engineering and modern predictive analytics.</p>
       
-      <div style="border: 1px solid #eee; border-radius: 10px; padding: 10px; background: #fdfdfd;">
-        <a href="./projects/jha-framework"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 5px;"></a>
-        <h4 style="margin: 10px 0 5px 0;">🛡️ Risk Governance</h4>
-        <p style="font-size: 0.75em;">Standardized JHA logic across 24 units using Python.</p>
-      </div>
+      <p>
+        <img src="https://img.shields.io/badge/PEC_Registered-Engineer-blue" alt="PEC">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      </p>
 
-      <div style="border: 1px solid #eee; border-radius: 10px; padding: 10px; background: #fdfdfd;">
-        <a href="./projects/commissioning-upgrade"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 5px;"></a>
-        <h4 style="margin: 10px 0 5px 0;">⚙️ Unit Commissioning</h4>
-        <p style="font-size: 0.75em;">Led 250M PKR upgrade and PLC logic validation.</p>
-      </div>
+      <hr>
 
-      <div style="border: 1px solid #eee; border-radius: 10px; padding: 10px; background: #fdfdfd;">
-        <a href="./projects/coal-unit-redesign"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 5px;"></a>
-        <h4 style="margin: 10px 0 5px 0;">🚀 Capacity Expansion</h4>
-        <p style="font-size: 0.75em;">Redesigned coal mill for +20% throughput.</p>
-      </div>
+      <h3 style="color: #003366;">🏗️ Engineering Project Portfolio</h3>
 
-      <div style="border: 1px solid #eee; border-radius: 10px; padding: 10px; background: #fdfdfd;">
-        <a href="./projects/pyro-audit"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 5px;"></a>
-        <h4 style="margin: 10px 0 5px 0;">🔥 Pyro-Process Audit</h4>
-        <p style="font-size: 0.75em;">Heat & Mass balance for Kiln Line-2 (99.7% Accuracy).</p>
-      </div>
+      <table style="width: 100%; border: none; border-collapse: collapse;">
+        <tr>
+          <td style="width: 33%; padding: 10px; vertical-align: top;">
+            <a href="./projects/jha-framework"><img src="assets/jha-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <h4 style="margin: 10px 0 5px 0;">🛡️ Risk Governance</h4>
+            <p style="font-size: 0.7em;">Python JHA automation across 24 units.</p>
+          </td>
+          <td style="width: 33%; padding: 10px; vertical-align: top;">
+            <a href="./projects/commissioning-upgrade"><img src="assets/commissioning-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <h4 style="margin: 10px 0 5px 0;">⚙️ Commissioning</h4>
+            <p style="font-size: 0.7em;">250M PKR upgrade & PLC validation.</p>
+          </td>
+          <td style="width: 33%; padding: 10px; vertical-align: top;">
+            <a href="./projects/coal-unit-redesign"><img src="assets/coal-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <h4 style="margin: 10px 0 5px 0;">🚀 Capacity Expansion</h4>
+            <p style="font-size: 0.7em;">+20% throughput coal mill redesign.</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 33%; padding: 10px; vertical-align: top;">
+            <a href="./projects/pyro-audit"><img src="assets/pyro-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <h4 style="margin: 10px 0 5px 0;">🔥 Pyro Audit</h4>
+            <p style="font-size: 0.7em;">Line-2 audit with 99.7% accuracy.</p>
+          </td>
+          <td style="width: 33%; padding: 10px; vertical-align: top;">
+            <a href="./projects/solar-optimization"><img src="assets/solar-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <h4 style="margin: 10px 0 5px 0;">☀️ Solar Modeling</h4>
+            <p style="font-size: 0.7em;">21MW predictive load optimization.</p>
+          </td>
+          <td style="width: 33%; padding: 10px; vertical-align: top;">
+            <a href="./projects/lng-modelling"><img src="assets/lng-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <h4 style="margin: 10px 0 5px 0;">💻 LNG Design</h4>
+            <p style="font-size: 0.7em;">97.2% Aspen HYSYS model accuracy.</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 33%; padding: 10px; vertical-align: top;">
+            <a href="./projects/pyro-design"><img src="assets/design-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <h4 style="margin: 10px 0 5px 0;">🏗️ 4k TPD Design</h4>
+            <p style="font-size: 0.7em;">Greenfield pyro-unit process sizing.</p>
+          </td>
+          <td style="width: 33%; padding: 10px; vertical-align: top;">
+            <a href="./projects/reliability-analysis"><img src="assets/reliability-thumb.jpg" style="width: 100%; border-radius: 8px;"></a>
+            <h4 style="margin: 10px 0 5px 0;">📉 Reliability</h4>
+            <p style="font-size: 0.7em;">Poisson modeling for failure rates.</p>
+          </td>
+          <td style="width: 33%; padding: 10px; vertical-align: top; text-align: center;">
+            <div style="border: 2px dashed #eee; border-radius: 8px; padding: 20px; color: #ccc; font-size: 0.7em;">
+              More Projects<br>Coming Soon
+            </div>
+          </td>
+        </tr>
+      </table>
 
-      <div style="border: 1px solid #eee; border-radius: 10px; padding: 10px; background: #fdfdfd;">
-        <a href="./projects/solar-optimization"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 5px;"></a>
-        <h4 style="margin: 10px 0 5px 0;">☀️ Solar Modeling</h4>
-        <p style="font-size: 0.75em;">21MW Solar load optimization using Hypothesis Testing.</p>
-      </div>
+      <hr>
 
-      <div style="border: 1px solid #eee; border-radius: 10px; padding: 10px; background: #fdfdfd;">
-        <a href="./projects/lng-modelling"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 5px;"></a>
-        <h4 style="margin: 10px 0 5px 0;">💻 LNG System Design</h4>
-        <p style="font-size: 0.75em;">Aspen Plus/HYSYS simulation (97.2% model accuracy).</p>
-      </div>
-
-      <div style="border: 1px solid #eee; border-radius: 10px; padding: 10px; background: #fdfdfd;">
-        <a href="./projects/pyro-design"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 5px;"></a>
-        <h4 style="margin: 10px 0 5px 0;">🏗️ 4,000 TPD Design</h4>
-        <p style="font-size: 0.75em;">Process sizing for greenfield pyro-processing unit.</p>
-      </div>
-
-      <div style="border: 1px solid #eee; border-radius: 10px; padding: 10px; background: #fdfdfd;">
-        <a href="./projects/reliability-analysis"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 5px;"></a>
-        <h4 style="margin: 10px 0 5px 0;">📉 Reliability Analysis</h4>
-        <p style="font-size: 0.75em;">Poisson distribution modeling for failure rates.</p>
-      </div>
-
-    </div>
-
-    <hr>
-
-    <h2 style="color: #003366;">🧰 Technical Skills Matrix</h2>
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; font-size: 0.85em;">
-      <div style="border: 1px solid #eee; padding: 10px;">
-        <b>Process:</b> Mass/Energy Balances, Sizing, Commissioning
-      </div>
-      <div style="border: 1px solid #eee; padding: 10px;">
-        <b>Data:</b> Predictive Modeling, Reliability, Variance Analysis
-      </div>
-      <div style="border: 1px solid #eee; padding: 10px;">
-        <b>Safety:</b> JHA, HAZOP, Root Cause Analysis (RCA)
-      </div>
-      <div style="border: 1px solid #eee; padding: 10px;">
-        <b>Tools:</b> Aspen HYSYS, Python, AutoCAD, PLC Logic
-      </div>
-    </div>
-
-  </div>
-</div>
+      <h3 style="color: #003366;">🧰 Technical Skills Matrix</h3>
+      <table style="width: 100%; border: 1px solid #eeeeee; font-size: 0.8em; border-collapse: collapse;">
+        <tr style="background-color: #f9f9f9;">
+          <th style="padding: 10px; border: 1px solid #eeeeee;">Design</th>
+          <th style="padding: 10px; border: 1px solid #eeeeee;">Data</th>
+          <th style="padding: 10px; border: 1px solid #eeeeee;">Safety</th>
+          <th style="padding: 10px; border: 1px solid #eeeeee;">Software</th>
+        </tr>
+        <tr>
+          <td style="padding: 10px; border: 1px solid #eeeeee;">• Energy Balances<br>• Equipment Sizing</td>
+          <td style="padding: 10px; border: 1px solid #eeeeee;">• Predictive Modeling<br>• Reliability Eng.</td>
+          <td style="padding: 10px; border: 1px solid #eeeeee;">• JHA/HAZOP<br>• RCA Logic</td>
+          <td style="padding: 10px; border: 1px solid #eeeeee;">• Aspen HYSYS<br>• Python / PLC</td>
+        </tr>
+      </table>
+      
+    </td>
+  </tr>
+</table>
