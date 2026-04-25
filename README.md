@@ -1,4 +1,4 @@
-# Wakeel Ahmed Syed
+# Syed Wakeel Ahmed
 ### Chemical Process Engineer | Operational Risk Governance
 
 [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/wakeelahmedsyed) | [Email](mailto:YOUR_EMAIL)
