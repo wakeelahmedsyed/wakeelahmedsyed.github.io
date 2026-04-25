@@ -48,10 +48,12 @@
       <h3 style="margin-top: 10px; color: #003366;">☀️ 21MW Solar Optimization</h3>
       <p style="font-size: 0.9em; color: #555;">Applied predictive modeling to solar generation, securing 6.25M PKR in annual energy savings.</p>
     </td>
-    <td style="width: 50%; padding: 10px; border: none; vertical-align: middle; text-align: center; color: #888;">
-       <div style="border: 2px dashed #ddd; border-radius: 10px; padding: 40px;">
-        <i>Next Case Study Coming Soon</i>
-      </div>
+    <td style="width: 50%; padding: 10px; border: none;">
+      <a href="./projects/pyro-audit">
+        <img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" style="width: 100%; border-radius: 10px; border: 1px solid #ddd;" alt="Thermal Audit Project">
+      </a>
+      <h3 style="margin-top: 10px; color: #003366;">🔥 Pyro-Processing Audit</h3>
+      <p style="font-size: 0.9em; color: #555;">Conducted a detailed Heat & Mass balance for Kiln Line-2, achieving 99.7% audit closure accuracy.</p>
     </td>
   </tr>
 </table>
