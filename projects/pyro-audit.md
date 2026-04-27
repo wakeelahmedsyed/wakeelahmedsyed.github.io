@@ -1,5 +1,15 @@
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+<div style="background-color: #f0f2f6; padding: 15px; border-radius: 15px; border-left: 10px solid #003366; margin-bottom: 20px;">
+  <h1 style="margin: 0; color: #003366; font-family: sans-serif;">Operational Risk Governance</h1>
+  <p style="margin: 5px 0 0 0; font-style: italic; color: #555; font-size: 1.2em;">Attock Cement Limited | JHA Framework Standardization</p>
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/ISO_45001-005596?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO">
+    <img src="https://img.shields.io/badge/Industrial_Safety-E44D26?style=for-the-badge&logo=shield&logoColor=white" alt="Safety">
+  </div>
+</div>
+
 # Full-Scope Thermodynamic Heat Balance of a Cement Kiln Pyro-Processing Unit
 **Attock Cement Limited** | *Line-2 Thermal Energy Optimization*
 
