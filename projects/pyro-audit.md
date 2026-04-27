@@ -16,9 +16,6 @@
   </div>
 </div>
 
-# Full-Scope Thermodynamic Heat Balance of a Cement Kiln Pyro-Processing Unit
-**Attock Cement Limited** | *Line-2 Thermal Energy Optimization*
-
 ---
 
 ## 🔍 Project Scope
