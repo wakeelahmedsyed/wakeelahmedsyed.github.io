@@ -2,7 +2,7 @@
 
 <div style="background-color: #f0f2f6; padding: 15px; border-radius: 15px; border-left: 10px solid #003366; margin-bottom: 20px;">
   <h2 style="margin: 0; color: #003366; font-family: sans-serif;">Full-Scope Thermodynamic Heat Balance of a Cement Kiln Pyro-Processing Unit</h2>
-  <p style="margin: 5px 0 0 0; font-style: italic; color: #555; font-size: 1.5em;">Attock Cement Limited | Pyro-Processing Audit
+  <p style="margin: 5px 0 0 0; font-style: italic; color: #555; font-size: 1.2em;">Attock Cement Limited | Pyro-Processing Audit
 </p>
   <div style="margin-top: 15px;">
     <img src="https://img.shields.io/badge/Heat_and_Mass_Balance-005596?style=for-the-badge&logoColor=white" alt="Heat and Mass Balance">
