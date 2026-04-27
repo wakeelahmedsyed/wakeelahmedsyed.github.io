@@ -18,6 +18,31 @@
 
 ---
 
+<div class="metrics-strip">
+  <div class="metric">
+    <span class="metric-val"><em>99.75%</em></span>
+    <span class="metric-label">Balance Closure</span>
+  </div>
+  <div class="metric">
+    <span class="metric-val">64</span>
+    <span class="metric-label">Shell Measurement Points</span>
+  </div>
+  <div class="metric">
+    <span class="metric-val">52.4</span>
+    <span class="metric-label">Kcal/kg<sub style="color:#64748b">clk</sub> Heat Losses Mapped</span>
+  </div>
+  <div class="metric">
+    <span class="metric-val">11</span>
+    <span class="metric-label">Heat Streams Quantified</span>
+  </div>
+  <div class="metric">
+    <span class="metric-val">805.9</span>
+    <span class="metric-label">Kcal/kg<sub style="color:#64748b">clk</sub> Total Input</span>
+  </div>
+</div>
+
+---
+
 ## 🔍 Project Scope
 To perform a comprehensive thermal energy audit of the kiln system, I conducted a simultaneous heat and mass balance across the pyro-processing boundaries. The study was based on **1 kg of clinker** as the functional unit to standardize efficiency metrics.
 
