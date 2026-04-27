@@ -7,12 +7,10 @@
     <img src="https://img.shields.io/badge/Heat_and_Mass_Balance-005596?style=for-the-badge&logoColor=white" alt="Heat and Mass Balance">
     <img src="https://img.shields.io/badge/Stefan_Boltzmann_Radiation-005596?style=for-the-badge&logoColor=white" alt="Stefan-Boltzmann Radiation">
     <img src="https://img.shields.io/badge/Bernoulli_Flow_Analysis-005596?style=for-the-badge&logoColor=white" alt="Bernoulli Flow Analysis">
-    <img src="https://img.shields.io/badge/ISO_45001-005596?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO">
-    <img src="https://img.shields.io/badge/Industrial_Safety-E44D26?style=for-the-badge&logo=shield&logoColor=white" alt="Safety">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+    <img src="https://img.shields.io/badge/Pitot_Tube_Instrumentation-005596?style=for-the-badge&logoColor=white" alt="Pitot Tube Instrumentation">
+    <img src="https://img.shields.io/badge/Fourier_Convection-005596?style=for-the-badge&logoColor=white" alt="Fourier Convection">
+    <img src="https://img.shields.io/badge/Anemometry-005596?style=for-the-badge&logoColor=white" alt="Anemometry">
+    <img src="https://img.shields.io/badge/Thermodynamic_Modeling-005596?style=for-the-badge&logoColor=white" alt="Thermodynamic Modeling">
     
   </div>
 </div>
