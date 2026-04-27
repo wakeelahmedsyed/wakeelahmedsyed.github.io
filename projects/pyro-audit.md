@@ -2,15 +2,15 @@
 
 <div style="background-color: #f0f2f6; padding: 15px; border-radius: 15px; border-left: 10px solid #003366; margin-bottom: 20px;">
   <h1 style="margin: 0; color: #003366; font-family: sans-serif;">Full-Scope Thermodynamic Heat Balance of a Cement Kiln Pyro-Processing Unit</h1>
-  <p style="margin: 5px 0 0 0; font-style: italic; color: #555; font-size: 1.5em;">Attock Cement Limited | Pyro-Processing Audit</p>
+  <p style="margin: 5px 0 0 0; font-style: italic; color: #555; font-size: 1.5em;">Attock Cement Limited | _Pyro-Processing Audit_</p>
   <div style="margin-top: 15px;">
     <img src="https://img.shields.io/badge/Heat_and_Mass_Balance-005596?style=for-the-badge&logoColor=white" alt="Heat and Mass Balance">
-    <img src="https://img.shields.io/badge/Stefan_Boltzmann_Radiation-005596?style=for-the-badge&logoColor=white" alt="Stefan-Boltzmann Radiation">
+    <img src="https://img.shields.io/badge/Thermodynamic_Modeling-005596?style=for-the-badge&logoColor=white" alt="Thermodynamic Modeling">
     <img src="https://img.shields.io/badge/Bernoulli_Flow_Analysis-005596?style=for-the-badge&logoColor=white" alt="Bernoulli Flow Analysis">
+    <img src="https://img.shields.io/badge/Stefan_Boltzmann_Radiation-005596?style=for-the-badge&logoColor=white" alt="Stefan-Boltzmann Radiation">
     <img src="https://img.shields.io/badge/Pitot_Tube_Instrumentation-005596?style=for-the-badge&logoColor=white" alt="Pitot Tube Instrumentation">
     <img src="https://img.shields.io/badge/Fourier_Convection-005596?style=for-the-badge&logoColor=white" alt="Fourier Convection">
     <img src="https://img.shields.io/badge/Anemometry-005596?style=for-the-badge&logoColor=white" alt="Anemometry">
-    <img src="https://img.shields.io/badge/Thermodynamic_Modeling-005596?style=for-the-badge&logoColor=white" alt="Thermodynamic Modeling">
     
   </div>
 </div>
