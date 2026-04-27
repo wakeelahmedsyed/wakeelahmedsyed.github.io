@@ -5,7 +5,7 @@
   <p style="margin: 5px 0 0 0; font-style: italic; color: #555; font-size: 1.5em;">Attock Cement Limited | Pyro-Processing Audit</p>
   <div style="margin-top: 15px;">
     <img src="https://img.shields.io/badge/Heat_and_Mass_Balance-005596?style=for-the-badge&logoColor=white" alt="Heat and Mass Balance">
-    <img src="https://img.shields.io/badge/Stefan-Boltzmann_Radiation-005596?style=for-the-badge&logoColor=white" alt="Stefan-Boltzmann Radiation">
+    <img src="https://img.shields.io/badge/Stefan_Boltzmann_Radiation-005596?style=for-the-badge&logoColor=white" alt="Stefan-Boltzmann Radiation">
     <img src="https://img.shields.io/badge/Heat_and_Mass_Balance-005596?style=for-the-badge&logoColor=white" alt="Heat and Mass Balance">
     <img src="https://img.shields.io/badge/ISO_45001-005596?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO">
     <img src="https://img.shields.io/badge/Industrial_Safety-E44D26?style=for-the-badge&logo=shield&logoColor=white" alt="Safety">
