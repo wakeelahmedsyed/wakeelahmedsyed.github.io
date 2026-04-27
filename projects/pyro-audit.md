@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -9,19 +9,24 @@
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --navy: #0e1c2f;
-    --navy-mid: #1a2e47;
-    --slate: #2c4258;
-    --amber: #d97706;
-    --amber-light: #fef3c7;
-    --amber-pale: #fffbeb;
-    --text: #1a1a2e;
-    --text-muted: #4a5568;
-    --text-faint: #718096;
-    --border: #e2e8f0;
-    --bg: #f9f8f6;
+    /* Cayman Theme Color Palette */
+    --cayman-blue: #155799;
+    --cayman-green: #159957;
+    
+    --navy: #155799;       /* Mapped to Cayman Blue */
+    --navy-mid: #10457a;   /* Darker hue for contrast strips */
+    --slate: #606c71;      /* Mapped to Cayman Text */
+    --amber: #159957;      /* Mapped to Cayman Green */
+    --amber-light: #e6f5eb;/* Pale Green */
+    --amber-pale: #f2f9f5; /* Faint Green */
+    --text: #222222;       /* Dark for high-contrast elements */
+    --text-muted: #606c71; /* Standard Cayman body text */
+    --text-faint: #819198;
+    --border: #eaebec;
+    --bg: #ffffff;
     --bg-card: #ffffff;
-    --bg-dark: #0e1c2f;
+    --bg-dark: #155799;
+    
     --mono: 'IBM Plex Mono', monospace;
     --serif: 'Fraunces', Georgia, serif;
     --sans: 'DM Sans', system-ui, sans-serif;
@@ -32,14 +37,14 @@
   body {
     font-family: var(--sans);
     background: var(--bg);
-    color: var(--text);
+    color: var(--text-muted);
     line-height: 1.7;
     font-size: 16px;
   }
 
   /* ── HERO ── */
   .hero {
-    background: var(--navy);
+    background-image: linear-gradient(120deg, var(--cayman-blue), var(--cayman-green));
     padding: 72px 48px 56px;
     position: relative;
     overflow: hidden;
@@ -49,8 +54,8 @@
     position: absolute;
     inset: 0;
     background-image:
-      linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+      linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px);
     background-size: 40px 40px;
   }
   .hero-inner { position: relative; max-width: 860px; }
@@ -60,7 +65,7 @@
     font-size: 11px;
     letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: var(--amber);
+    color: #a3e6c3; /* Bright green for visibility */
     margin-bottom: 18px;
     display: flex;
     align-items: center;
@@ -71,21 +76,21 @@
     display: inline-block;
     width: 24px;
     height: 1px;
-    background: var(--amber);
+    background: #a3e6c3;
   }
 
   .hero h1 {
     font-family: var(--serif);
     font-size: clamp(30px, 4vw, 46px);
     font-weight: 500;
-    color: #f0ece4;
+    color: #ffffff;
     line-height: 1.2;
     margin-bottom: 20px;
   }
 
   .hero-tagline {
     font-size: 17px;
-    color: #94a3b8;
+    color: rgba(255,255,255,0.85);
     max-width: 620px;
     margin-bottom: 32px;
     line-height: 1.6;
@@ -101,15 +106,16 @@
     font-size: 11px;
     padding: 5px 11px;
     border-radius: 4px;
-    border: 1px solid rgba(255,255,255,0.12);
-    color: #94a3b8;
-    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.2);
+    color: rgba(255,255,255,0.9);
+    background: rgba(255,255,255,0.06);
     letter-spacing: 0.04em;
   }
   .badge.highlight {
-    border-color: rgba(217,119,6,0.5);
-    color: #fbbf24;
-    background: rgba(217,119,6,0.1);
+    border-color: rgba(255,255,255,0.8);
+    color: #ffffff;
+    background: rgba(255,255,255,0.2);
+    font-weight: 500;
   }
 
   /* ── METRICS STRIP ── */
@@ -129,17 +135,17 @@
     font-family: var(--mono);
     font-size: 26px;
     font-weight: 500;
-    color: #f0ece4;
+    color: #ffffff;
     display: block;
     margin-bottom: 4px;
   }
   .metric-val em {
     font-style: normal;
-    color: var(--amber);
+    color: #4ce691; /* Bright green */
   }
   .metric-label {
     font-size: 12px;
-    color: #64748b;
+    color: rgba(255,255,255,0.7);
     text-transform: uppercase;
     letter-spacing: 0.08em;
     font-family: var(--mono);
@@ -193,9 +199,9 @@
     padding: 16px 20px;
     margin: 24px 0;
     font-size: 15px;
-    color: #78350f;
+    color: #124d2c;
   }
-  .callout strong { color: #92400e; }
+  .callout strong { color: #082916; }
 
   /* ── STEPS ── */
   .steps { display: flex; flex-direction: column; gap: 0; margin: 24px 0; }
@@ -212,7 +218,7 @@
     height: 36px;
     border-radius: 50%;
     background: var(--navy);
-    color: #f0ece4;
+    color: #ffffff;
     font-family: var(--mono);
     font-size: 13px;
     font-weight: 500;
@@ -243,8 +249,8 @@
     font-size: 10px;
     padding: 2px 7px;
     border-radius: 3px;
-    background: #e2e8f0;
-    color: #4a5568;
+    background: #e9ecef;
+    color: var(--text-faint);
     margin-top: 6px;
     letter-spacing: 0.03em;
   }
@@ -263,7 +269,7 @@
     padding: 20px;
   }
   .result-card.accent {
-    border-color: rgba(217,119,6,0.35);
+    border-color: rgba(21, 153, 87, 0.35);
     background: var(--amber-pale);
   }
   .result-num {
@@ -274,13 +280,13 @@
     display: block;
     margin-bottom: 4px;
   }
-  .result-card.accent .result-num { color: #92400e; }
+  .result-card.accent .result-num { color: var(--amber); }
   .result-desc {
     font-size: 13px;
     color: var(--text-faint);
     margin: 0;
   }
-  .result-card.accent .result-desc { color: #a16207; }
+  .result-card.accent .result-desc { color: #124d2c; }
 
   /* ── VIZ PLACEHOLDER ── */
   .viz-placeholder {
@@ -295,7 +301,7 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background: #e2e8f0;
+    background: #e9ecef;
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -320,7 +326,7 @@
     font-size: 11px;
     color: var(--amber);
     background: var(--amber-pale);
-    border: 1px solid rgba(217,119,6,0.25);
+    border: 1px solid rgba(21, 153, 87, 0.25);
     border-radius: 4px;
     padding: 4px 10px;
     display: inline-block;
@@ -354,7 +360,7 @@
   tr.total-row td {
     font-weight: 500;
     color: var(--navy);
-    background: #f1f5f9;
+    background: #f4f6f8;
     border-top: 1.5px solid var(--border);
     border-bottom: none;
   }
@@ -365,8 +371,8 @@
     border-radius: 50%;
     margin-right: 8px;
   }
-  .dot.input { background: #0e7490; }
-  .dot.output { background: #d97706; }
+  .dot.input { background: var(--navy); }
+  .dot.output { background: var(--amber); }
 
   /* ── LEARNINGS ── */
   .learnings-list { list-style: none; padding: 0; margin: 16px 0; }
@@ -399,20 +405,19 @@
     text-align: center;
     font-family: var(--mono);
     font-size: 11px;
-    color: #475569;
+    color: rgba(255,255,255,0.6);
     letter-spacing: 0.06em;
   }
 </style>
 </head>
 <body>
 
-<!-- ── HERO ── -->
 <header class="hero">
   <div class="hero-inner">
     <div class="hero-eyebrow">Process Engineering &nbsp;·&nbsp; Pyro-Processing Audit</div>
     <h1>Full-Scope Thermodynamic Heat Balance of a Cement Kiln Pyro-Processing Unit</h1>
     <p class="hero-tagline">
-      Conducted a plant-wide energy audit on Kiln Line-2, mapping 11 distinct heat streams across the preheater, rotary kiln, and clinker cooler — achieving a <strong style="color:#f0ece4">99.75% balance closure</strong> from first-principles field measurements.
+      Conducted a plant-wide energy audit on Kiln Line-2, mapping 11 distinct heat streams across the preheater, rotary kiln, and clinker cooler — achieving a <strong style="color:#ffffff">99.75% balance closure</strong> from first-principles field measurements.
     </p>
     <div class="badge-row">
       <span class="badge highlight">Heat &amp; Mass Balance</span>
@@ -426,7 +431,6 @@
   </div>
 </header>
 
-<!-- ── METRICS STRIP ── -->
 <div class="metrics-strip">
   <div class="metric">
     <span class="metric-val"><em>99.75%</em></span>
@@ -438,7 +442,7 @@
   </div>
   <div class="metric">
     <span class="metric-val">52.4</span>
-    <span class="metric-label">Kcal/kg<sub style="color:#64748b">clk</sub> Heat Losses Mapped</span>
+    <span class="metric-label">Kcal/kg<sub style="color:#8c979e">clk</sub> Heat Losses Mapped</span>
   </div>
   <div class="metric">
     <span class="metric-val">11</span>
@@ -446,14 +450,12 @@
   </div>
   <div class="metric">
     <span class="metric-val">805.9</span>
-    <span class="metric-label">Kcal/kg<sub style="color:#64748b">clk</sub> Total Input</span>
+    <span class="metric-label">Kcal/kg<sub style="color:#8c979e">clk</sub> Total Input</span>
   </div>
 </div>
 
-<!-- ── MAIN CONTENT ── -->
 <main class="content">
 
-  <!-- PROBLEM -->
   <section class="section">
     <div class="section-label">01 &nbsp; Problem Statement</div>
     <h2>The plant was burning fuel with no map of where the heat was going.</h2>
@@ -468,7 +470,6 @@
     </div>
   </section>
 
-  <!-- PROCESS FLOW PLACEHOLDER -->
   <div class="viz-placeholder">
     <div class="viz-icon">⬡</div>
     <div class="viz-title">System Boundary Diagram</div>
@@ -476,7 +477,6 @@
     <span class="viz-suggestion">&#9998; Suggested tool: AutoCAD or Lucidchart PFD → export as SVG/PNG</span>
   </div>
 
-  <!-- METHODOLOGY -->
   <section class="section">
     <div class="section-label">02 &nbsp; Methodology &amp; Execution</div>
     <h2>Three phases: measure in the field, compute at the desk, verify the closure.</h2>
@@ -528,7 +528,6 @@
     </div>
   </section>
 
-  <!-- RESULTS -->
   <section class="section">
     <div class="section-label">03 &nbsp; Quantifiable Results</div>
     <h2>A complete energy map — with a 0.25% closure error.</h2>
@@ -536,7 +535,6 @@
       The table below summarises all computed heat streams. Together they tell a coherent story: combustion accounts for the overwhelming majority of energy input, preheater exhaust gases are the single largest output, and kiln shell radiation is the most significant loss category that is directly improvable through refractory and coating management.
     </p>
 
-    <!-- SUMMARY TABLE -->
     <div class="heat-table-wrap">
       <table>
         <thead>
@@ -564,7 +562,6 @@
       </table>
     </div>
 
-    <!-- KEY RESULT CARDS -->
     <div class="results-grid">
       <div class="result-card accent">
         <span class="result-num">0.25%</span>
@@ -593,7 +590,6 @@
     </div>
   </section>
 
-  <!-- SANKEY PLACEHOLDER -->
   <div class="viz-placeholder">
     <div class="viz-icon">⇥</div>
     <div class="viz-title">Sankey Diagram — Heat Flow Distribution</div>
@@ -601,7 +597,6 @@
     <span class="viz-suggestion">&#9998; Suggested tool: SankeyMATIC or Python plotly.graph_objects Sankey → export as SVG</span>
   </div>
 
-  <!-- KILN SHELL PROFILE PLACEHOLDER -->
   <div class="viz-placeholder">
     <div class="viz-icon">📈</div>
     <div class="viz-title">Kiln Shell Heat Loss Profile (64 m)</div>
@@ -609,7 +604,6 @@
     <span class="viz-suggestion">&#9998; Suggested tool: Python matplotlib or Excel chart from Table 6 data → export as PNG</span>
   </div>
 
-  <!-- LOSS BREAKDOWN PLACEHOLDER -->
   <div class="viz-placeholder">
     <div class="viz-icon">◔</div>
     <div class="viz-title">Radiation &amp; Convection Loss Breakdown — By Zone</div>
@@ -617,7 +611,6 @@
     <span class="viz-suggestion">&#9998; Suggested tool: Python matplotlib pie chart or Flourish → export as SVG/PNG</span>
   </div>
 
-  <!-- KEY LEARNINGS -->
   <section class="section">
     <div class="section-label">04 &nbsp; Key Findings &amp; Learnings</div>
     <h2>What the numbers revealed beyond the balance sheet.</h2>
@@ -654,7 +647,6 @@
     </ul>
   </section>
 
-  <!-- ROLE -->
   <section class="section" style="margin-bottom:0;">
     <div class="section-label">05 &nbsp; Project Context</div>
     <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px,1fr)); gap:16px; margin-top:16px;">
