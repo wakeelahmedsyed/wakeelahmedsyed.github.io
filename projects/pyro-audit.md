@@ -4,7 +4,7 @@
   <h1 style="margin: 0; color: #003366; font-family: sans-serif;">Full-Scope Thermodynamic Heat Balance of a Cement Kiln Pyro-Processing Unit</h1>
   <p style="margin: 5px 0 0 0; font-style: italic; color: #555; font-size: 1.5em;">Attock Cement Limited | Pyro-Processing Audit</p>
   <div style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/Heat_and_Mass_Balance-005596?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Heat and Mass Balance">
+    <img src="https://img.shields.io/badge/Heat_and_Mass_Balance-005596?style=for-the-badge&logoColor=ffdd54" alt="Heat and Mass Balance">
     <img src="https://img.shields.io/badge/ISO_45001-005596?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO">
     <img src="https://img.shields.io/badge/Industrial_Safety-E44D26?style=for-the-badge&logo=shield&logoColor=white" alt="Safety">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
