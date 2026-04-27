@@ -1,6 +1,6 @@
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-# Pyro-Processing Heat & Mass Balance Audit
+# Full-Scope Thermodynamic Heat Balance of a Cement Kiln Pyro-Processing Unit
 **Attock Cement Limited** | *Line-2 Thermal Energy Optimization*
 
 ---
