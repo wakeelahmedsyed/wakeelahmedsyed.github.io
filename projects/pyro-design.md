@@ -893,14 +893,7 @@
         <div class="step-num">04</div>
         <div class="step-body">
           <h3>Automated Calculation Tool Development</h3>
-          <p>Developed a comprehensive, fully automated Excel and Python-based engineering suite with the following modules:
-          Raw Mix Design
-          Combustion Volume Calculations
-          Kiln Refractory Brick Installation Guide
-          ID Fan Sizing & Power Specification
-          Cyclone Preheater Sizing
-          Silo Design
-    The tool was structured so that changes to any input cell automatically cascade through all dependent calculations, making it immediately reusable for future plant designs or modifications..</p>
+          <p>Developed a comprehensive, fully automated Excel and Python-based engineering suite with the following modules: <strong>Raw Mix Design, Combustion Volume Calculations, Kiln Refractory Brick Installation Guide, ID Fan Sizing & Power Specification, Cyclone Preheater Sizing, Silo Design, etc. </strong>. The tool was structured so that changes to any input cell automatically cascade through all dependent calculations, making it immediately reusable for future plant designs or modifications..</p>
           <div class="step-tags">
             <span class="step-tag blue">Advanced Microsoft Excel</span>
             <span class="step-tag blue">Python</span>
