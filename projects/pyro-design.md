@@ -732,9 +732,9 @@
   <div class="skills-section">
     <p class="skills-label"><span class="sec-num">03</span> Skills Used in This Project</p>
     <div class="pills">
-      <span class="pill"><span class="pill-dot"></span>Fluid Dynamics &amp; Pressure Drop Analysis (RCA)</span>
-      <span class="pill"><span class="pill-dot"></span>Manual Equipment Sizing &amp; Optimization &amp; Anemometry</span>
-      <span class="pill"><span class="pill-dot"></span>Mass &amp; Energy Balance &amp; Fan Curve Analysis</span>
+      <span class="pill"><span class="pill-dot"></span>Fluid Dynamics &amp; Pressure Drop Analysis</span>
+      <span class="pill"><span class="pill-dot"></span>Manual Equipment Sizing &amp; Optimization</span>
+      <span class="pill"><span class="pill-dot"></span>Mass &amp; Energy Balance</span>
       <span class="pill"><span class="pill-dot"></span>Combustion Kinetics</span>
       <span class="pill"><span class="pill-dot"></span>Micrsoft Excel</span>
       <span class="pill"><span class="pill-dot"></span>Technical Audit</span>
