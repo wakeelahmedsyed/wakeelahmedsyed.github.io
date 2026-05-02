@@ -929,7 +929,7 @@
   ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="results-h">
     <p class="sec-label"><span class="sec-num">09</span> Quantifiable Results</p>
-    <h2 id="results-h">The Numbers That Made the Case</h2>
+    <h2 id="results-h"> The Summary That Made the Case</h2>
 
     <p>
       The two tables below are the core quantitative evidence of this project. The first exposes the per-fan discrepancy between what the CCR displayed and what physical measurement confirmed. The second is the resulting heat balance — which reached 0.25% closure <em>only because</em> the corrected fan flows were used as inputs, replacing the PLC's inflated estimates.
@@ -941,96 +941,66 @@
       <table>
         <thead>
           <tr>
-            <th>Fan</th>
-            <th>Avg. Velocity (m/s)</th>
-            <th>Duct Ø (m)</th>
-            <th>Measured Flow (m³/s)</th>
-            <th>CCR Flow (m³/s)</th>
-            <th>Delta</th>
-            <th>Verdict</th>
+            <th>Component</th>
+            <th>HCRDI Design</th>
+            <th>Cross-Checked Design</th>
+            <th>Outcome</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Fan 1</td>
-            <td>15.14</td>
-            <td>0.60</td>
-            <td>4.39</td>
-            <td>5.19</td>
-            <td class="err-high">+18.2 %</td>
-            <td class="err-high">CCR overstates</td>
+            <td>System ΔP (5-stage PH)</td>
+            <td>~10 mbar</td>
+            <td>~7 mbar</td>
+            <td>2–3 mbar discrepancy identified</td>
           </tr>
           <tr>
             <td>Fan 2</td>
             <td>57.13</td>
             <td>0.73</td>
             <td>6.64</td>
-            <td>7.92</td>
-            <td class="err-high">+19.3 %</td>
-            <td class="err-high">CCR overstates</td>
           </tr>
           <tr>
             <td>Fan 3</td>
             <td>54.97</td>
             <td>1.11</td>
             <td>14.78</td>
-            <td>16.34</td>
-            <td class="err-mid">+10.6 %</td>
-            <td class="err-mid">CCR overstates</td>
           </tr>
           <tr>
             <td>Fan 4</td>
             <td>46.80</td>
             <td>1.17</td>
             <td>13.98</td>
-            <td>17.94</td>
-            <td class="err-high">+28.3 %</td>
-            <td class="err-high">CCR overstates</td>
           </tr>
           <tr>
             <td>Fan 5</td>
             <td>42.17</td>
             <td>1.23</td>
             <td>13.92</td>
-            <td>12.09</td>
-            <td class="err-low">−13.1 %</td>
-            <td class="err-low">CCR understates</td>
           </tr>
           <tr>
             <td>Fan 6</td>
             <td>46.90</td>
             <td>1.14</td>
             <td>13.30</td>
-            <td>13.20</td>
-            <td class="err-low">−0.8 %</td>
-            <td class="err-low">Consistent</td>
           </tr>
           <tr>
             <td>Fan 7</td>
             <td>24.83</td>
             <td>1.25</td>
             <td>8.47</td>
-            <td>10.26</td>
-            <td class="err-high">+21.1 %</td>
-            <td class="err-high">CCR overstates</td>
           </tr>
           <tr>
             <td>Fan 8</td>
             <td>—</td>
             <td>—</td>
             <td>—</td>
-            <td>8.65</td>
-            <td>—</td>
-            <td style="color:var(--text-muted);font-size:0.8rem;">Not physically measured</td>
           </tr>
           <tr class="total-row">
             <td>Total (Fans 1–7)</td>
             <td>—</td>
             <td>—</td>
             <td>75.48 m³/s</td>
-            <td>82.94 m³/s</td>
-            <td class="err-high">+9.9 % overall</td>
-            <td>CCR overstates fleet</td>
           </tr>
         </tbody>
       </table>
