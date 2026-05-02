@@ -706,13 +706,13 @@
   <p class="field-label">
     Process Engineering
     <span class="field-divider">/</span>
-    <span>Industrial Plant Design &amp; Independent Design Verification</span>
+    <span>Industrial Plant Design &amp; Design Verification</span>
   </p>
 
   <!-- ② Main Head -->
   <h1>
-    Process Design: 4,000 TPD Pyro-Processing Unit<br>
-    <em>Local Design Cross-Validation of Cement Manufacturing Line Installed In 2023</em>
+    Process Design &amp; Verification: 4,000 TPD Greenfield Pyro-Processing Unit<br>
+    <em>Independent Design Cross-Validation of Cement Manufacturing Line Installed In 2023</em>
   </h1>
 
   <p class="header-sub">
