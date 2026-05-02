@@ -839,10 +839,10 @@
   ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="method-h">
     <p class="sec-label"><span class="sec-num">08</span> Methodology &amp; Execution</p>
-    <h2 id="method-h">From Assumed Flow to Measured Flow — A Four-Phase Field Audit</h2>
+    <h2 id="method-h">Auditing Process Design Before the Concrete Sets — A Five-Phase Process</h2>
 
     <p>
-      The audit was designed from the outset to be entirely evidence-driven. No CCR reading was accepted as an input to the heat balance without independent physical corroboration. The campaign proceeded in four structured phases, each feeding directly into the next.
+      Reconstructed the complete mass and energy balance for the 4,000 TPD production target from raw mix design inputs. This established the baseline gas volumes, temperatures, and flow rates against which all downstream equipment sizing would be verified.
     </p>
 
     <div class="method-steps">
@@ -850,13 +850,13 @@
       <div class="method-step">
         <div class="step-num">01</div>
         <div class="step-body">
-          <h3>Physical Fan Flow Measurement — Anemometry on All Eight Fans</h3>
-          <p>Each cooler fan was measured independently using a calibrated anemometer. Three velocity readings were taken per fan across the inlet cross-section, and the average was used to compute volumetric flow via <em>Q = v × A</em>. Duct and fan inlet diameters were confirmed by direct measurement using a metric tape. All computed flows were normalised from actual m³ to standard NM³ (273 K, 101.325 kPa) using the ideal gas equation of state, correcting for each fan's rated pressure and inlet temperature. The resulting physical flowrates were then placed side-by-side with the corresponding CCR values for each unit — this juxtaposition was where the discrepancy became immediately visible.</p>
+          <h3>Cyclone Preheater Audit</h3>
+          <p>Re-sized all five cyclone stages independently using gas velocity principles and separation efficiency requirements. Generated parametric graphs in Python plotting particle size distribution curves against varying cyclone heights and diameters. This graphical analysis revealed that Stages 1 and 2 were oversized, producing a calculated system ΔP of 7–8 mbar — significantly lower than HCRDI's stated design value of ~10 mbar — indicating a misalignment between the cyclone stack and the ID fan's operating point.</p>
           <div class="step-tags">
-            <span class="step-tag">Anemometry</span>
-            <span class="step-tag">Q = v × A</span>
-            <span class="step-tag">NM³ Normalisation</span>
-            <span class="step-tag">Equation of State</span>
+            <span class="step-tag blue">Gas-Solid Separation Design</span>
+            <span class="step-tag blue">Cyclone Sizing</span>
+            <span class="step-tag blue">Parametric Data Visualization</span>
+            <span class="step-tag blue">Python</span>
           </div>
         </div>
       </div>
@@ -864,13 +864,13 @@
       <div class="method-step">
         <div class="step-num">02</div>
         <div class="step-body">
-          <h3>Duct Velocity Traversal — Pitot Tube at Preheater Exhaust &amp; Cooler Vent</h3>
-          <p>Pitot tube and digital manometer measurements were taken at six radial positions inside both the 3.3 m diameter preheater exhaust duct and the 4 m × 1.5 m rectangular cooler vent duct. Total and static pressures were recorded at each traverse point. Gas velocities were derived from differential pressures using Bernoulli's equation (pitot tube factor P<sub>T</sub> = 0.65), averaged across the six positions to produce a representative mean velocity, and used to calculate duct-level volumetric flowrates — also normalised to NM³. These measurements gave independent, direct quantification of the two largest gas streams exiting the system boundary.</p>
+          <h3>Calciner & Kiln Verification</h3>
+          <p>Validated the In-Line Calciner (ILC) volume against fuel combustion kinetics and CO₂ partial pressure requirements to confirm the 90–95% calcination degree target. Verified the rotary kiln L/D ratio for the thermal load requirements of the final clinkerization phase.</p>
           <div class="step-tags">
-            <span class="step-tag">Pitot Tube Traversal</span>
-            <span class="step-tag">Bernoulli's Equation</span>
-            <span class="step-tag">Digital Manometry</span>
-            <span class="step-tag blue">6-Point Averaging</span>
+            <span class="step-tag blue">Combustion Kinetics Analysis</span>
+            <span class="step-tag blue">Chemical Reaction Engineering</span>
+            <span class="step-tag blue">Rotary Kiln Thermal Load Calculation</span>
+            <span class="step-tag blue">L/D Ratio Optimization</span>
           </div>
         </div>
       </div>
@@ -878,13 +878,13 @@
       <div class="method-step">
         <div class="step-num">03</div>
         <div class="step-body">
-          <h3>Full Thermodynamic Heat Balance — 11 Streams, First Principles</h3>
-          <p>Using all physically verified flowrates and temperatures sourced from on-site measurements and QC records, a complete heat balance was performed across the defined system boundary — preheater cyclone inlet to cooler vent outlet. Five input streams (raw meal, combustion, cooler fan air, primary air, coal blower air) and six output streams (clinker formation enthalpy, preheater exhaust gases, cooler vent air, radiation and convection losses, clinker discharge, moisture evaporation) were individually quantified per kilogram of clinker produced. Radiation losses from 64 kiln shell measurement stations were computed via <strong>Stefan-Boltzmann Law</strong> (ε = 0.9 for mild steel); convective losses via <strong>Fourier's Law</strong> using coefficients from the Peray Cement Handbook. The balance achieved closure of <strong>0.25%</strong> — a direct result of replacing PLC-estimated flows with physically measured values.</p>
+          <h3>Draft System Cross-Check</h3>
+          <p>Recalculated the total system resistance using the corrected ΔP values and verified the ID fan power specification against the actual pressure-flow equilibrium point. Confirmed that the corrected cyclone dimensions brought the system into proper synchronization with the fan curve.</p>
           <div class="step-tags">
-            <span class="step-tag">Stefan-Boltzmann Law</span>
-            <span class="step-tag">Fourier's Law</span>
-            <span class="step-tag">Sensible Heat Analysis</span>
-            <span class="step-tag blue">64-Point Shell Survey</span>
+            <span class="step-tag blue">Fan Curve Performance Analysis</span>
+            <span class="step-tag blue">Mechanical Power Specification</span>
+            <span class="step-tag blue">Ducting Pressure Loss Calculation</span>
+            <span class="step-tag blue">System Resistance Modeling</span>
           </div>
         </div>
       </div>
@@ -892,13 +892,20 @@
       <div class="method-step">
         <div class="step-num">04</div>
         <div class="step-body">
-          <h3>Root Cause Analysis — PLC Fan Curve Investigation &amp; Engineering Recommendation</h3>
-          <p>With a confirmed 18% gap between measured and displayed flows across multiple fans, the RCA was structured to answer one question: was this a sensor fault, mechanical degradation, or a control system programming error? The investigation concluded that the <strong>PLC fan curve was the root cause</strong> — the mathematical relationship programmed into the controller no longer matched the physical behaviour of the fan fleet, likely due to a combination of commissioning data that was never field-validated and cumulative impeller degradation over service life. This distinction was operationally critical: it meant the 18% gap was not a symptom of mechanical failure that maintenance could address, but a <strong>systematic capacity gap</strong> that required a structural solution. The finding was compiled into a formal engineering recommendation report submitted to AGM Production, proposing an additional fan unit as the most effective corrective measure, supported by the corrected mass flow calculations and OpEx impact analysis.</p>
+          <h3>Automated Calculation Tool Development</h3>
+          <p>Developed a comprehensive, fully automated Excel and Python-based engineering suite with the following modules:
+          Raw Mix Design
+          Combustion Volume Calculations
+          Kiln Refractory Brick Installation Guide
+          ID Fan Sizing & Power Specification
+          Cyclone Preheater Sizing
+          Silo Design
+    The tool was structured so that changes to any input cell automatically cascade through all dependent calculations, making it immediately reusable for future plant designs or modifications..</p>
           <div class="step-tags">
-            <span class="step-tag amber">Root Cause Analysis</span>
-            <span class="step-tag amber">PLC Fan Curve Diagnosis</span>
-            <span class="step-tag">Engineering Report</span>
-            <span class="step-tag">CapEx Justification</span>
+            <span class="step-tag blue">Advanced Microsoft Excel</span>
+            <span class="step-tag blue">Python</span>
+            <span class="step-tag blue">Engineering Software Development</span>
+            <span class="step-tag blue">Automated Algorithm</span>
           </div>
         </div>
       </div>
