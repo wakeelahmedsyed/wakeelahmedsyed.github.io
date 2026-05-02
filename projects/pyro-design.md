@@ -706,7 +706,7 @@
   <p class="field-label">
     Process Engineering
     <span class="field-divider">/</span>
-    <span>Industrial Plant Design</span>
+    <span>Industrial Plant Design &amp; Independent Design Verification</span>
   </p>
 
   <!-- ② Main Head -->
