@@ -716,7 +716,7 @@
   </h1>
 
   <p class="header-sub">
-    A field-measurement campaign across all eight cooler fans exposed an 18% instrumentation discrepancy traced to an incorrect PLC fan curve — correcting the plant's thermodynamic foundation and producing a data-backed case for an additional fan unit.
+    Independent cross-verification of process design of a $50M, 4,000 TPD greenfield pyro-processing line installed by HCRDI. Mass and energy balance calculations and pressure profile of the 5-stage preheater system helped identify a 2.47 mbar discrepancy in the first two cyclone stages. Based on findings, the cyclone stack was modified during installation, resulting in a 3.6% reduction in specific energy consumption.
   </p>
 
   <a href="/" class="back-link">&nbsp;Back to Portfolio</a>
@@ -732,12 +732,12 @@
   <div class="skills-section">
     <p class="skills-label"><span class="sec-num">03</span> Skills Used in This Project</p>
     <div class="pills">
-      <span class="pill"><span class="pill-dot"></span>Root Cause Analysis (RCA)</span>
-      <span class="pill"><span class="pill-dot"></span>Manual Flow Auditing &amp; Anemometry</span>
-      <span class="pill"><span class="pill-dot"></span>PLC Systems &amp; Fan Curve Analysis</span>
-      <span class="pill"><span class="pill-dot"></span>Pitot Tube Instrumentation</span>
-      <span class="pill"><span class="pill-dot"></span>Thermodynamic Heat Balance (11 Streams)</span>
-      <span class="pill"><span class="pill-dot"></span>Engineering Recommendation &amp; CapEx Justification</span>
+      <span class="pill"><span class="pill-dot"></span>Fluid Dynamics &amp; Pressure Drop Analysis (RCA)</span>
+      <span class="pill"><span class="pill-dot"></span>Manual Equipment Sizing &amp; Optimization &amp; Anemometry</span>
+      <span class="pill"><span class="pill-dot"></span>Mass &amp; Energy Balance &amp; Fan Curve Analysis</span>
+      <span class="pill"><span class="pill-dot"></span>Combustion Kinetics</span>
+      <span class="pill"><span class="pill-dot"></span>Micrsoft Excel</span>
+      <span class="pill"><span class="pill-dot"></span>Technical Audit</span>
     </div>
   </div>
 
