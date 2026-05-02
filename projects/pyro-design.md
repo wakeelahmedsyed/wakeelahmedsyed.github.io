@@ -747,11 +747,11 @@
   ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="ach-h">
     <p class="sec-label"><span class="sec-num">04</span> Achievement</p>
-    <h2 id="ach-h">Turning a Control Room Mirage into a CapEx Decision</h2>
+    <h2 id="ach-h">Recalibrating a $50M Cement Line: From Contractor Assumptions to First-Principles Efficiency</h2>
     <div class="achievement-banner">
       <p class="ach-label">Core Achievement</p>
       <blockquote>
-        By exposing an <strong>18% systematic overstatement</strong> in CCR-displayed fan flows — traced through Root Cause Analysis to an <strong>incorrect fan curve programmed in the PLC</strong> — the plant's thermodynamic model was corrected from first-principles field data, achieving an <strong>elite 0.25% heat balance closure</strong>. This directly demonstrated that the existing fan fleet, even when properly characterised, was physically incapable of meeting the 136,250 kg/hr production demand — producing the data-backed justification for the procurement and installation of an additional unit, improving total plant cooling efficiency and OpEx.
+        By identifying a <strong>25% overestimation</strong> between contractor-designed pressure drops and first-principles fluid dynamics—traced to oversized cyclone dimensions in the primary preheater stages—the 4,000 TPD pyro-processing model was <strong>recalibrated to field-accurate specifications, securing a 3.6 % reduction in specific energy consumption</strong>. This independent verification demonstrated that the HCRDI-designed cyclone stack was mismatched to the ID fan’s pressure-flow equilibrium, providing the technical mandate to modify the stack during the installation of the $50M greenfield line. To institutionalize this precision, I engineered an automated multi-module Python/Excel suite that synchronized raw mix chemistry with combustion kinetics and draft resistance, transforming a capital risk into a high-efficiency operational asset.
       </blockquote>
     </div>
   </section>
