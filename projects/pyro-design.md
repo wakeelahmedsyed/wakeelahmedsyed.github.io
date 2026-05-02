@@ -797,7 +797,7 @@
         <p>The critical error found in the EPC contractor's cyclone design</p>
       </div>
       <div class="stat-card">
-        <div class="stat-num">3<sup>%</sup></div>
+        <div class="stat-num">3.6<sup>%</sup></div>
         <div class="stat-unit">Specific Energy Reduction</div>
         <p>Measurable operational gain delivered from design correction</p>
       </div>
@@ -817,20 +817,17 @@
   ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="problem-h">
     <p class="sec-label"><span class="sec-num">07</span> Problem Statement &amp; Commission</p>
-    <h2 id="problem-h">The Plant Was Running on a Control System That Was Quietly Hallucinating</h2>
+    <h2 id="problem-h">The $50M Blind Spot: Preventing Embedded Energy Inefficiencies in Unverified EPC Designs</h2>
 
     <p>
-      On Kiln Line-2, producing <strong>136,250 kg of clinker per hour</strong>, the clinker cooler is one of the most operationally critical sub-systems in the entire pyro-processing unit. After exiting the rotary kiln at approximately 1,450 °C, clinker must be cooled rapidly and uniformly — a process entirely dependent on the volume of air delivered by the eight cooler fans. The cooling air flowrate governs clinker quality, grindability, heat recovery to the kiln, and the thermal energy available for capture in the cooler vent stream.
+      A cement manufacturing company was overseeing the installation of a new $50M, 4,000 TPD pyro-processing line by EPC contractor HCRDI. Before physical installation could be finalized, there was a fundamental organizational risk: the company had no independent engineering verification of the contractor's process design. Accepting the design without audit risked embedding inefficiencies — particularly in the pressure-flow relationship between the cyclone preheater string and the Induced Draft fan — that would result in excess energy consumption, suboptimal calcination, and long-term operational losses that could not be corrected post-commissioning without significant cost.
     </p>
     <p>
-      The Central Control Room (CCR) reported a combined total cooling air flow of <strong>91.59 m³/s</strong> across all fans. These readings came directly from the <strong>Programmable Logic Controller (PLC)</strong>, which calculates volumetric flow using a pre-programmed mathematical fan curve — typically a polynomial relating motor RPM or damper position to expected output: <em>Q = f(RPM, ΔP)</em>. If the fan curve is correct, this is a reliable, non-intrusive method of flow estimation. If it is not, every process decision downstream rests on a number that has no physical basis.
-    </p>
-    <p>
-      No independent physical verification of fan performance had ever been conducted. Operators were adjusting cooling zones, monitoring air-to-clinker ratios, and benchmarking energy efficiency — all against CCR values that had never been checked against the physical hardware. If the fan curve was misconfigured, due to impeller wear, duct geometry changes, or simply wrong commissioning data, the control system would display a <strong>"theoretical" flow</strong> that bore no relation to what was actually entering the kiln cooler. The plant would be unknowingly under-cooling clinker, and operators would see no alarm.
+      The core technical challenge was that cyclone sizing errors are not linear in their consequences. A miscalculated pressure drop in the upper preheater stages propagates through the entire draft system, forcing the ID fan to operate outside its design equilibrium point and inflating specific energy consumption across the plant's operational life.
     </p>
 
     <div class="note-box green">
-      <strong>Commission:</strong> As part of a comprehensive thermodynamic heat balance on the pyro-processing unit, commissioned by AGM Production, physically measure the flowrate of every cooler fan, cross-validate all readings against CCR panel values, quantify any discrepancies, and conduct a Root Cause Analysis. Submit a data-backed engineering recommendation on corrective action.
+      <strong>Commission:</strong> Was commissioned to independently re-engineer the complete process design of the pyro-processing string from first principles — covering the 5-stage cyclone preheater, in-line calciner, rotary kiln, ID fan, and silo — and to cross-verify all outputs against HCRDI's submitted design. The scope included identifying any deviations, generating corrected equipment specifications where necessary, and delivering a permanently reusable automated calculation tool to institutionalize this engineering capability within the organization.
     </div>
   </section>
 
