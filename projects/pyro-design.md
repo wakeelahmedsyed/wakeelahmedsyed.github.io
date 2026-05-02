@@ -787,24 +787,24 @@
     <h2 id="stats-h">Four Numbers That Define the Work</h2>
     <div class="stats-grid">
       <div class="stat-card">
-        <div class="stat-num">18<sup>%</sup></div>
-        <div class="stat-unit">Flow Discrepancy</div>
-        <p>Average CCR overstatement across the most affected fans — traced to an incorrect PLC fan curve rather than a physical fault</p>
+        <div class="stat-num">50M<sup>$</sup></div>
+        <div class="stat-unit">Capital Project Value</div>
+        <p>Scale of the installation being audited and protected</p>
       </div>
       <div class="stat-card">
-        <div class="stat-num">8</div>
-        <div class="stat-unit">Fans Audited</div>
-        <p>All eight cooler fans independently measured with three anemometer passes each, then normalised to NM³ at standard conditions</p>
+        <div class="stat-num">2.47<sup>mb</sup></div>
+        <div class="stat-unit">Pressure Drop Discrepancy</div>
+        <p>The critical error found in the EPC contractor's cyclone design</p>
       </div>
       <div class="stat-card">
-        <div class="stat-num">0.25<sup>%</sup></div>
-        <div class="stat-unit">Balance Closure</div>
-        <p>Heat balance closure error achieved — 8× tighter than the ±2% industry benchmark, validating the corrected measurement dataset</p>
+        <div class="stat-num">3<sup>%</sup></div>
+        <div class="stat-unit">Specific Energy Reduction</div>
+        <p>Measurable operational gain delivered from design correction</p>
       </div>
       <div class="stat-card">
-        <div class="stat-num">+1</div>
-        <div class="stat-unit">Unit Approved</div>
-        <p>Additional cooler fan recommended and approved by management — the first capital decision at Line-2 driven by a quantified engineering audit</p>
+        <div class="stat-num">4,000<sup>TPD</sup></div>
+        <div class="stat-unit">Production Capacity</div>
+        <p>Full throughput target validated across all process stages</p>
       </div>
     </div>
   </section>
