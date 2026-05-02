@@ -903,6 +903,20 @@
         </div>
       </div>
 
+       <div class="method-step">
+        <div class="step-num">05</div>
+        <div class="step-body">
+          <h3>Design Modification & Implementation</h3>
+          <p>Presented findings to management. The cyclone stack dimensions for Stages 1 and 2 were modified by HCRDI during the installation phase, prior to final commissioning.</p>
+          <div class="step-tags">
+            <span class="step-tag blue">Engineering Change Management</span>
+            <span class="step-tag blue">Technical Reporting</span>
+            <span class="step-tag blue">Stakeholder Communication</span>
+            <span class="step-tag blue">EPC Contractor Coordination</span>
+          </div>
+        </div>
+      </div>
+
     </div>
 
   </section>
