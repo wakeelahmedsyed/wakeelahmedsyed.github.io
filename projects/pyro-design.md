@@ -706,13 +706,13 @@
   <p class="field-label">
     Process Engineering
     <span class="field-divider">/</span>
-    <span>Energy Auditing &amp; Root Cause Analysis</span>
+    <span>Industrial Plant Design</span>
   </p>
 
   <!-- ② Main Head -->
   <h1>
-    Cooler Fan Audit &amp; Pyro-Processing Heat Balance<br>
-    <em>PLC Fan Curve Root Cause Analysis &amp; CapEx Recommendation</em>
+    Process Design: 4,000 TPD Pyro-Processing Unit<br>
+    <em>Local Design Cross-Validation of Cement Manufacturing Line Installed In 2023</em>
   </h1>
 
   <p class="header-sub">
