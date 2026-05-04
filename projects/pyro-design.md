@@ -1052,40 +1052,40 @@
     <h2 id="findings-h">What the Audit Actually Uncovered</h2>
     <div class="findings-grid">
 
-      <div class="finding-card rca">
-        <span class="find-pill rca">RCA Finding</span>
-        <h3>The Mathematical Mirage — PLC Fan Curve as Root Cause</h3>
-        <p>The RCA established that the CCR's inflated flow readings were not caused by sensor drift, wiring faults, or mechanical degradation. The root cause was an <strong>incorrect fan curve programmed into the PLC at commissioning</strong> — a polynomial Q = f(RPM, ΔP) that had never been field-validated against the actual installed hardware. Because the PLC was calculating a "theoretical" flow based on this stale curve, the control system was, in effect, hallucinating: reporting a number that had no physical basis. Operators had no way to detect this from within the control room. Only a physical audit could expose it.</p>
-      </div>
-
-      <div class="finding-card capex">
-        <span class="find-pill capex">CapEx Finding</span>
-        <h3>Data-Backed CapEx — Correcting the Thermodynamic Foundation</h3>
-        <p>Because the heat balance input for cooler fan air had been inflated by the PLC's incorrect curve, the sensible heat contribution of the fan air stream had been overstated. Without the physical measurement correction, the balance would have shown "missing energy" — which most engineers would have incorrectly attributed to higher kiln shell losses or kiln refractory problems. By correcting the fan flowrates, the balance closed to 0.25%, and the <strong>actual capacity gap was isolated and quantified</strong>: the existing fan fleet, even when accurately characterised, could not deliver the air volume needed at the 136,250 kg/hr production rate. The recommendation for an additional unit was not a precautionary suggestion — it was a mathematically demonstrated necessity.</p>
+      <div class="finding-card">
+        <span class="find-pill find">Finding</span>
+        <h3>Cyclone Oversizing Creates Non-Linear Fan Mismatch</h3>
+        <p>The Stage 1 and Stage 2 cyclones in HCRDI's design were dimensioned for a higher pressure drop than the ID fan's operating curve could efficiently accommodate. The error was not visible at the individual equipment level but only emerged when <strong>cumulative system ΔP was calculated holistically</strong> — reinforcing that preheater design must always be validated at the system level, not component by component.</p>
       </div>
 
       <div class="finding-card">
         <span class="find-pill find">Finding</span>
-        <h3>Refractory Heterogeneity Drives Kiln Shell Loss Variation</h3>
-        <p>The 64-point kiln shell temperature survey revealed a nearly 7× spread in per-metre heat loss — from 0.11 to 1.01 Kcal/kg<sub>clk</sub> — with peak losses concentrated between meters 19 and 28. This spatial pattern is the thermodynamic signature of localised refractory thinning or degradation. It provides a prioritised, location-specific case for targeted refractory inspection and selective replacement — not a full kiln reline, but precision maintenance directed exactly where it will have the most thermal impact.</p>
+        <h3>EPC Contractor Designs Require Independent Verification</h3>
+        <p>Even on a $50M project delivered by a specialized EPC contractor, meaningful design deviations can exist. The 2–3 mbar discrepancy was not caught in HCRDI's internal review process, demonstrating that owner-side independent <strong>engineering capability is a critical risk management function</strong>, not a redundancy.</p>
       </div>
 
       <div class="finding-card">
         <span class="find-pill find">Finding</span>
-        <h3>Cooler Vent Air — The Highest-Potential Heat Recovery Target</h3>
-        <p>Carrying 91.6 Kcal/kg<sub>clk</sub> at 380 °C, the cooler vent stream exits the system boundary with substantial, recoverable enthalpy. Unlike preheater exhaust recovery — which requires integration with the conditioning tower — vent air recovery can be implemented via an independent heat exchanger or ORC unit with no upstream process disruption. This was documented in the final report as the most actionable waste heat recovery opportunity available to Line-2 operations.</p>
+        <h3>Particle Size Distribution Graphs Are a Decisive Sizing Tool</h3>
+        <p>Generating parametric graphs of particle size distribution against cyclone height and diameter combinations provided visual, defensible evidence for the design modification recommendation — a level of clarity that raw calculation sheets alone could not have provided to management.</p>
       </div>
 
       <div class="finding-card">
         <span class="find-pill learn">Learning</span>
-        <h3>Physical Measurement Rigor is What Made 0.25% Closure Possible</h3>
-        <p>Three anemometer passes per fan, six pitot-tube readings per duct, and independent diameter confirmation at every measurement point — the redundancy was deliberate. A single uncorrected fan reading or an assumed duct diameter would have cascaded an error through all downstream sensible heat calculations. The 0.25% closure is not just a result; it is the direct quantitative proof that the measurement campaign was rigorous enough to be trusted as the thermodynamic foundation for a capital investment recommendation.</p>
+        <h3>Systems Thinking is Non-Negotiable in Process Design</h3>
+        <p>A change in cyclone dimensions in Stage 1 cascades through Stage 2 ΔP, total system resistance, ID fan operating point, gas velocity profiles, and ultimately calcination efficiency. No component can be designed or verified in isolation.</p>
       </div>
 
       <div class="finding-card">
         <span class="find-pill learn">Learning</span>
-        <h3>NM³ Normalisation — A Non-Negotiable Data Integrity Practice</h3>
-        <p>The coal blowers operate at 58.8 kPa gauge pressure and 40 °C. Without applying the full equation of state (P₁V₁/T₁ = P₂V₂/T₂) to convert to standard conditions, their contribution to the heat balance would be overstated by approximately 50%. Applying consistent NM³ normalisation across all streams — atmospheric cooler fans, pressurised blowers, and hot exhaust gases — was the single most important data-quality discipline in the entire calculation chain, and the step most likely to be silently skipped under production pressure.</p>
+        <h3>Engineering Tools as Organizational Assets</h3>
+        <p>Building the automated Excel/Python suite transformed a one-time audit into a permanent organizational capability. The tool's input-driven architecture means future line modifications or new plant designs can be evaluated in hours rather than months — demonstrating that engineering deliverables should be designed for reuse, not just immediate use.</p>
+      </div>
+
+      <div class="finding-card">
+        <span class="find-pill learn">Learning</span>
+        <h3> Pre-Commissioning is the Only Practical Window for Correction</h3>
+        <p>Process design errors in heavy industrial installations are effectively irreversible post-commissioning without prohibitive cost. This project demonstrated the critical importance of rigorous front-end engineering review as a capital protection strategy.</p>
       </div>
 
     </div>
@@ -1109,33 +1109,33 @@
       <div class="context-card">
         <span class="ctx-icon">⚙️</span>
         <h3>Role</h3>
-        <p>Process Engineer — Lead Auditor. Responsible for the full measurement campaign, thermodynamic modelling, RCA, and the final engineering recommendation report.</p>
+        <p>Assistant Manager — Production. Responsible for the full measurement campaign, thermodynamic modelling, RCA, and the final engineering recommendation report.</p>
       </div>
       <div class="context-card">
         <span class="ctx-icon">🏭</span>
-        <h3>Unit Under Audit</h3>
-        <p>Pyro-Processing Line-2: full boundary from preheater cyclone inlet to clinker cooler vent outlet. Clinker output rate of 136,250 kg/hr.</p>
+        <h3>Scope</h3>
+        <p>Full Pyro-Processing String: Raw Mix → Preheater → Calciner → Kiln → ID Fan → Silo.</p>
       </div>
       <div class="context-card">
         <span class="ctx-icon">🔧</span>
-        <h3>Instruments Used</h3>
-        <p>Anemometer (3 passes per fan), Pitot tube &amp; digital manometer (6-point radial traverse), infrared thermometer (64 shell stations + full preheater surface).</p>
+        <h3>Key Deliverable 1</h3>
+        <p>Fully automated multi-module Excel/Python engineering calculation suite.</p>
       </div>
       <div class="context-card">
         <span class="ctx-icon">📐</span>
-        <h3>Heat Balance Scope</h3>
-        <p>11 heat streams fully quantified — 5 inputs (combustion, raw meal, cooler fans, primary air, coal blowers) and 6 outputs (clinker formation, preheater exhaust, vent air, R&amp;C losses, clinker discharge, moisture).</p>
+        <h3>Key Deliverable 2</h3>
+        <p>Independent design audit report with cyclone correction specifications.</p>
       </div>
       <div class="context-card">
         <span class="ctx-icon">📋</span>
-        <h3>Key Deliverable</h3>
-        <p>Heat balance report with corrected fan flowrates, PLC fan curve RCA findings, and a formally submitted engineering recommendation for an additional cooler fan unit.</p>
+        <h3>Project Type</h3>
+        <p>EPC Contractor Audited — HCRDI. Independent Design Verification — Greenfield Cement Line.</p>
       </div>
       <div class="context-card">
         <span class="ctx-icon">✅</span>
         <h3>Outcome</h3>
-        <p>Recommendation accepted by management.</p>
-        <span class="outcome-pill">Additional fan unit approved</span>
+        <p>Cyclone stack modified pre-installation.</p>
+        <span class="outcome-pill">3.6% specific energy reduction achieved</span>
       </div>
     </div>
 
