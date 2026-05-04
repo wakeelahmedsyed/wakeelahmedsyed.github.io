@@ -1024,19 +1024,19 @@
     <h2 id="trio-h">Three Numbers That Tell the Story</h2>
     <div class="results-trio">
       <div class="result-cell">
-        <div class="result-big">18%</div>
-        <div class="result-unit">PLC Overstatement</div>
-        <p class="result-desc">Average CCR flow overstatement across critical fans, traced to an incorrect fan curve in the PLC — not a physical fault, but a control system misconfiguration that made it invisible to operators</p>
+        <div class="result-big">3.6%</div>
+        <div class="result-unit">Reduction in Specific Energy Consumption</div>
+        <p class="result-desc">The corrected cyclone dimensions, implemented during installation, directly reduced the energy demand per tonne of clinker produced — a permanent, compounding operational saving across the plant's entire operational life</p>
       </div>
       <div class="result-cell">
-        <div class="result-big">0.25%</div>
-        <div class="result-unit">Balance Closure</div>
-        <p class="result-desc">Heat balance closure achieved after replacing PLC-estimated flows with physically measured values — 8× tighter than the ±2% industry threshold and direct proof of the correction's validity</p>
+        <div class="result-big">2-3 mbar</div>
+        <div class="result-unit">Delta P Discrepancy Identified</div>
+        <p class="result-desc">Independent re-calculation of the 5-stage preheater string revealed that HCRDI's design overstated system resistance by 2–3 mbar, traced to oversized Stage 1 and Stage 2 cyclones — a finding that would have forced the ID fan into a suboptimal operating region indefinitely</p>
       </div>
       <div class="result-cell">
-        <div class="result-big">+1 Unit</div>
-        <div class="result-unit">CapEx Approved</div>
-        <p class="result-desc">Additional cooler fan recommended and approved — the first capital investment decision at Line-2 driven by a quantified, evidence-based engineering audit rather than operational intuition</p>
+        <div class="result-big">$50 M</div>
+        <div class="result-unit">Capital Protected</div>
+        <p class="result-desc">By identifying and correcting the design deviation before commissioning, the organization avoided embedding a permanent energy inefficiency into a $50M asset — corrections post-commissioning would have required costly disassembly and redesign</p>
       </div>
     </div>
   </section>
