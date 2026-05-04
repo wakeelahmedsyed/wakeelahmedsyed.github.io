@@ -955,22 +955,22 @@
             <td>2–3 mbar discrepancy identified</td>
           </tr>
           <tr>
-            <td>Fan 2</td>
-            <td>57.13</td>
-            <td>0.73</td>
-            <td>6.64</td>
+            <td>Cyclone Stages Affected</td>
+            <td>Stages 1 & 2 oversized</td>
+            <td>Corrected dimensions specified</td>
+            <td>Modified during installation</td>
           </tr>
           <tr>
-            <td>Fan 3</td>
-            <td>54.97</td>
-            <td>1.11</td>
-            <td>14.78</td>
+            <td>Specific Energy Consumption</td>
+            <td>Baseline</td>
+            <td>3% reduction</td>
+            <td>Permanent operational saving</td>
           </tr>
           <tr>
-            <td>Fan 4</td>
-            <td>46.80</td>
-            <td>1.17</td>
-            <td>13.98</td>
+            <td>Calcination Degree</td>
+            <td>90–95% target</td>
+            <td>Validated</td>
+            <td>Confirmed achievable with corrected design</td>
           </tr>
           <tr>
             <td>Fan 5</td>
@@ -979,28 +979,16 @@
             <td>13.92</td>
           </tr>
           <tr>
-            <td>Fan 6</td>
-            <td>46.90</td>
-            <td>1.14</td>
-            <td>13.30</td>
+            <td>ID Fan Synchronization</td>
+            <td>Misaligned to system curve</td>
+            <td>Realigned</td>
+            <td>Fan operating at correct equilibrium point</td>
           </tr>
           <tr>
-            <td>Fan 7</td>
-            <td>24.83</td>
-            <td>1.25</td>
-            <td>8.47</td>
-          </tr>
-          <tr>
-            <td>Fan 8</td>
+            <td>Capital Protected</td>
             <td>—</td>
-            <td>—</td>
-            <td>—</td>
-          </tr>
-          <tr class="total-row">
-            <td>Total (Fans 1–7)</td>
-            <td>—</td>
-            <td>—</td>
-            <td>75.48 m³/s</td>
+            <td>$50M installation</td>
+            <td>Pre-commissioning audit prevented embedded inefficiency</td>
           </tr>
         </tbody>
       </table>
