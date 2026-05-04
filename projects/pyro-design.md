@@ -1150,7 +1150,7 @@
 <footer class="site-footer">
   <p>
     Process Engineering Portfolio &nbsp;·&nbsp;
-    Pyro-Processing Heat Balance &amp; Fan Audit — Line-2 &nbsp;·&nbsp;
+    Process Design &amp; & Verification — : 4,000 TPD Greenfield Pyro-Processing Unit &nbsp;·&nbsp;
     <a href="/">← Back to Portfolio</a>
   </p>
 </footer>
