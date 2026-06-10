@@ -767,8 +767,9 @@
     <p class="sec-label"><span class="sec-num">05</span> Project Overview</p>
     <h2 id="infog-h">The Full Picture at a Glance</h2>
     <img src="assets/Gemini_Generated_Image_fkp6hefkp6hefkp6.png"
-      alt="Project overview diagram showing problem, method, and results"
-      style="width: 100%; height: auto; display: block; border-radius: 8px;">
+     alt="Project overview diagram"
+     style="width: 100%; height: auto; display: block; border-radius: 8px;"
+     onerror="this.style.border='3px solid red'; this.alt='BROKEN PATH';">
   </section>
 
   <div class="divider"></div>
