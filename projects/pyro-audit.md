@@ -762,18 +762,13 @@
   <!-- ════════════════════════════════════════════════════════════
        ⑤  INFOGRAPHIC  — placeholder for user to add their own
   ════════════════════════════════════════════════════════════ -->
+
   <section class="section" aria-labelledby="infog-h">
     <p class="sec-label"><span class="sec-num">05</span> Project Overview</p>
     <h2 id="infog-h">The Full Picture at a Glance</h2>
-    <div class="infographic-placeholder">
-      <div class="infog-ph-icon">🗺️</div>
-      <p class="infog-ph-tag">Your Infographic Goes Here</p>
-      <p class="infog-ph-title">Project Overview Infographic</p>
-      <p class="infog-ph-desc">
-        Replace this block with your visual overview of the project — for example, a three-panel diagram showing the problem (CCR displaying inflated flows), the method (physical fan audit + pitot traverse + RCA), and the result (corrected heat balance + fan unit recommendation). An SVG, PNG, or embedded HTML visual all work here.
-      </p>
-      <span class="infog-ph-note">📐 Recommended dimensions: 860 × 360 px or wider</span>
-    </div>
+    <img scr="assets/Gemini_Generated_Image_fkp6hefkp6hefkp6.png"
+      alt="Project overview diagram showing problem, method, and results"
+      style="width: 100%; height: auto; display: block; border-radius: 8px;">
   </section>
 
   <div class="divider"></div>
