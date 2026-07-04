@@ -661,7 +661,7 @@
     <iframe 
       width="100%" 
       height="480" 
-      src="https://www.youtube.com/embed/jobO_ukm_MI" 
+      src="https://www.youtube.com/embed/3ujjNMY7pvQ" 
       title="Waste Gasification for Waste2Products — DeCarbon Days 2026" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; 
