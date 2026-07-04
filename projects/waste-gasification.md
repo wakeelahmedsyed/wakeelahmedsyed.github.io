@@ -658,13 +658,19 @@
     <p class="sec-label"><span class="sec-num">05</span> Project Overview</p>
     <h2 id="infog-h">The Full Picture at a Glance</h2>
 
-    <div class="placeholder">
-      <div class="ph-icon">🎬</div>
-      <p class="ph-tag">Science Communication Video</p>
-      <p class="ph-desc">
-        The award-winning 2-minute video is embedded here. It explains the waste gasification pathway — from the problem of non-recyclable plastic, through the gasification process, to the carbon-circular products it enables — for a young adult audience.
-      </p>
-    </div>
+    <iframe 
+      width="100%" 
+      height="480" 
+      src="https://www.youtube.com/embed/jobO_ukm_MI" 
+      title="Waste Gasification for Waste2Products — DeCarbon Days 2026" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; 
+      encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      style="border-radius: 12px; margin-top: 1.5rem; 
+      display: block;">
+    </iframe>
+    
   </section>
 
   <div class="divider"></div>
