@@ -76,6 +76,19 @@
             <a href="./projects/waste-gasification"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.72em; margin-top: 8px;"><b>🏆 Waste Gasification</b><br>DeCarbon Days 2026 - 3rd Place</p>
           </td>
+                </tr>
+        <tr>
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
+            <a href="./projects/alternate-fuel"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>⛽ Alternate Fuel Integration</b><br>Rs. 880K+ Daily Savings</p>
+          </td>
+          <td width="33%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
+            <a href="./projects/drone-review"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
+            <p style="font-size: 0.72em; margin-top: 8px;"><b>🚁 Drone Technology Review</b><br>1,900+ Sources · 8-Point Framework</p>
+          </td>
+          <td width="33%" valign="middle" style="text-align: center; border: 1px dashed #ddd; border-radius: 8px; padding: 10px;">
+            <p style="font-size: 0.65em; color: #999;">More Projects Coming Soon</p>
+          </td>
         </tr>
       </table>
 
