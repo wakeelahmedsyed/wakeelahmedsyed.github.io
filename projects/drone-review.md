@@ -556,4 +556,88 @@
         <div class="step-num">06</div>
         <div class="step-body">
           <h3>Environmental Impact</h3>
-          <p>Quantify the environmental benefit of replacing 
+          <p>Quantify the environmental benefit of replacing fuel-intensive inspection methods (helicopters, heavy vehicles) with electric drones. Factor in the reduction of emissions from shorter inspection cycles and reduced need for physical scaffolding or access equipment.</p>
+        </div>
+      </div>
+
+      <div class="method-step">
+        <div class="step-num">07</div>
+        <div class="step-body">
+          <h3>Public Perception, Privacy, and Brand Image</h3>
+          <p>Assess how drone adoption aligns with the organization's values, brand positioning, and stakeholder expectations. Address employee and community concerns around surveillance, noise, and safety proactively.</p>
+        </div>
+      </div>
+
+      <div class="method-step">
+        <div class="step-num">08</div>
+        <div class="step-body">
+          <h3>Risk Assessment</h3>
+          <p>Conduct a comprehensive risk analysis comparing human inspection risks against drone inspection risks. Include technology failure, data breach, mid-flight incidents, and reputational risk. Develop mitigation strategies for each identified risk before proceeding with deployment.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <div class="divider"></div>
+
+
+  <!-- CONTEXT -->
+  <section class="section" aria-labelledby="context-h">
+    <p class="sec-label"><span class="sec-num">13</span> Project Context</p>
+    <h2 id="context-h">Scope, Setting &amp; Deliverables</h2>
+
+    <p>
+      This project was executed as an independent research and synthesis exercise focused on industrial inspection and technology adoption. The output was designed to bridge engineering evidence and managerial decision-making.
+    </p>
+
+    <div class="context-grid">
+      <div class="context-card">
+        <span class="ctx-icon">🎯</span>
+        <h3>Primary Focus</h3>
+        <p>Drone technology for inspection in industrial and manufacturing environments, with emphasis on operational practicality rather than novelty alone.</p>
+      </div>
+      <div class="context-card">
+        <span class="ctx-icon">📚</span>
+        <h3>Research Base</h3>
+        <p>Multi-database literature review drawing from peer-reviewed sources across engineering, energy, remote sensing, construction, and industrial systems.</p>
+      </div>
+      <div class="context-card">
+        <span class="ctx-icon">🏭</span>
+        <h3>Industrial Relevance</h3>
+        <p>Highly relevant to manufacturing, cement, energy, process industry, and operational risk environments where inspection quality affects safety and uptime.</p>
+      </div>
+      <div class="context-card">
+        <span class="ctx-icon">🧠</span>
+        <h3>Core Output</h3>
+        <p>An 8-point framework for evaluating whether drone adoption makes technical, economic, and organizational sense in a given industrial setting.</p>
+      </div>
+      <div class="context-card">
+        <span class="ctx-icon">📊</span>
+        <h3>Suggested Visuals</h3>
+        <p>PRISMA screening flowchart · objective-mapping table · 8-point economic framework diagram.</p>
+      </div>
+      <div class="context-card">
+        <span class="ctx-icon">✅</span>
+        <h3>Outcome</h3>
+        <p>A structured evidence base and applied adoption model for UAV-supported industrial inspection.</p>
+        <span class="outcome-pill">Independent research synthesis completed</span>
+      </div>
+    </div>
+
+  </section>
+
+</main>
+
+
+<footer class="site-footer">
+  <p>
+    Process Engineering Portfolio &nbsp;·&nbsp;
+    Drone Technology for Industrial Inspection &nbsp;·&nbsp;
+    <a href="/">← Back to Portfolio</a>
+  </p>
+</footer>
+
+
+</body>
+</html>
