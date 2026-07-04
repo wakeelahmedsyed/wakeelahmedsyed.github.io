@@ -20,7 +20,7 @@
         <hr style="border: 0; border-top: 1px solid #eaecef; margin: 15px 0;">
         
         <div style="font-size: 0.75em; color: #6a737d;">
-          <a href="YOUR_LINKEDIN_URL" style="color: #0366d6; text-decoration: none;">LinkedIn</a> • 
+          <a href="https://www.linkedin.com/in/syedwakeelahmed/" style="color: #0366d6; text-decoration: none;">LinkedIn</a> • 
           <a href="https://github.com/wakeelahmedsyed" style="color: #0366d6; text-decoration: none;">GitHub</a>
         </div>
       </div>
