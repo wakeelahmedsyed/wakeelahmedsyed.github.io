@@ -143,6 +143,32 @@
     .context-card .outcome-pill { display: inline-block; margin-top: 0.2rem; font-size: 0.78rem; font-weight: 700; color: var(--green-mid); background: var(--accent-bg); border: 1px solid #b8dfc8; border-radius: 999px; padding: 0.2rem 0.75rem; }
 
     .placeholder { border: 2px dashed var(--border); border-radius: var(--r-lg); background: var(--bg-subtle); padding: 2.5rem 2rem; text-align: center; margin-top: 1.5rem; }
+    .chart-figure {
+  margin: 1.5rem 0 0;
+  padding: 0;
+}
+.chart-figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  background: var(--bg);
+}
+.chart-caption {
+  margin-top: 0.75rem;
+  padding: 0 0.25rem;
+  font-size: 0.83rem;
+  color: var(--text);
+  line-height: 1.6;
+  font-style: italic;
+  text-align: left;
+}
+.chart-caption strong {
+  color: var(--text-dark);
+  font-style: normal;
+  font-weight: 700;
+}
     .ph-icon { font-size: 2rem; margin-bottom: 0.5rem; opacity: 0.45; }
     .ph-tag { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.13em; text-transform: uppercase; color: var(--green); margin-bottom: 0.3rem; }
     .ph-desc { font-size: 0.82rem; font-style: italic; color: var(--text-muted); max-width: 420px; margin: 0 auto; line-height: 1.55; }
@@ -229,11 +255,13 @@
     <p class="sec-label"><span class="sec-num">05</span> Project Overview</p>
     <h2 id="infog-h">The Full Picture at a Glance</h2>
 
-    <div class="placeholder">
-      <div class="ph-icon">📊</div>
-      <p class="ph-tag">Project Overview Chart</p>
-      <p class="ph-desc">Replace this placeholder with your fuel mix trend chart (Figure 2) showing the transition from imported coal to alternative fuels over the April–August 2022 period.</p>
-    </div>
+    <figure class="chart-figure">
+      <img src="images/figure2-fuel-mix-transition.png" 
+         alt="Line 3 fuel mix transition from April to August 2022, showing imported coal share declining from 100% to approximately 65% as alternative fuels grew to 30-35% of total mix following program initiation on 1st June 2022">
+      <figcaption class="chart-caption">
+        <strong>The whole story in one image.</strong> Line 3 fuel mix transitioned from 100% imported coal (April–May) to a stabilised 65–70% imported / 30–35% alternative fuel blend following program initiation on 1st June 2022.
+      </figcaption>
+    </figure>
   </section>
 
   <div class="divider"></div>
