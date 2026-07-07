@@ -425,7 +425,7 @@
     <p>The following charts were produced from daily production data logged across the April–August 2022 program period. They represent the live evidence base on which all fuel mix decisions were made.</p>
 
     <figure class="chart-figure">
-      <img src="/assets/figure2-fuel-mix-transition1.png" 
+      <img src="/assets/figure2-fuel-mix-transition2.png" 
            alt="Figure 2: Line 3 fuel mix transition April to August 2022, line chart showing imported coal declining as Bio/Thar/Baloch coal and Mud Press/Bio-waste alternative fuels grow in tonnage">
       <figcaption class="chart-caption">
         <strong>Figure 2 — Line 3 Fuel Mix Transition (Apr–Aug 2022).</strong> Line chart showing the share transition from imported coal to alternative fuels. Program initiation on 1st June 2022. The step-change marks the transition from full imported coal dependency to a stabilised blend.
