@@ -417,37 +417,46 @@
 
 
   <!-- DATA VISUALISATIONS -->
+  <!-- DATA VISUALISATIONS -->
   <section class="section" aria-labelledby="viz-h">
     <p class="sec-label"><span class="sec-num">09</span> Data Visualisations</p>
     <h2 id="viz-h">Five Charts That Tell the Story</h2>
 
     <p>The following charts were produced from daily production data logged across the April–August 2022 program period. They represent the live evidence base on which all fuel mix decisions were made.</p>
 
-    <div class="placeholder">
-      <div class="ph-icon">📊</div>
-      <p class="ph-tag">Figure 2 — Fuel Mix Transition</p>
-      <p class="ph-desc">Your stacked area/line chart showing Imported Coal (tons) declining as Bio/Thar/Baloch Coal and Mud Press/alternative fuels increase. Replace with your actual Figure 2 image.</p>
-    </div>
+    <figure class="chart-figure">
+      <img src="/assets/figure-2-fuel-mix-transition1.png" 
+           alt="Figure 2: Line 3 fuel mix transition April to August 2022, 100% stacked area chart showing imported coal declining as Bio/Thar/Baloch coal and Mud Press/Bio-waste alternative fuels grow to 30-35% of total mix">
+      <figcaption class="chart-caption">
+        <strong>Figure 2 — Line 3 Fuel Mix Transition (Apr–Aug 2022).</strong> 100% stacked area chart showing the share transition from imported coal to alternative fuels. Program initiation on 1st June 2022 (dashed vertical marker) marks the step-change from full imported coal dependency to a stabilised blend.
+      </figcaption>
+    </figure>
 
-    <div class="placeholder">
-      <div class="ph-icon">🌡️</div>
-      <p class="ph-tag">Figure 3 — Kilocalories Monitoring</p>
-      <p class="ph-desc">Your daily kcal/kg clinker trend chart showing kiln thermal stability across the 5-month period. Replace with your actual Figure 3 image.</p>
-    </div>
+    <figure class="chart-figure">
+      <img src="/assets/figure-3-kilocalories-monitoring.png" 
+           alt="Figure 3: Specific heat consumption for Line 3 kiln from April to August 2022, showing thermal stability maintained within operating band of 720 to 780 kcal per kg clinker despite the fuel mix transition">
+      <figcaption class="chart-caption">
+        <strong>Figure 3 — Specific Heat Consumption, Line 3 Kiln Thermal Stability (Apr–Aug 2022).</strong> Daily kcal/kg clinker remained within the operating band (720–780) throughout the program. Pre-blend average: ~749 kcal/kg. Post-blend average: ~756 kcal/kg — a negligible shift confirming kiln thermal stability despite a 30× increase in alternative fuel share.
+      </figcaption>
+    </figure>
 
-    <div class="placeholder">
-      <div class="ph-icon">⬇️</div>
-      <p class="ph-tag">Figure 4 — Imported Coal Reduction Trend</p>
-      <p class="ph-desc">Your daily imported coal consumption chart showing the sustained decline from the 485–505 TPD baseline. Replace with your actual Figure 4 image.</p>
-    </div>
+    <figure class="chart-figure">
+      <img src="/assets/figure-4-imported-coal-reduction.png" 
+           alt="Figure 4: Imported coal consumption for Line 3 from April to August 2022, showing step-change reduction from approximately 490 TPD to 420 TPD following alternative fuel program initiation on 1st June 2022">
+      <figcaption class="chart-caption">
+        <strong>Figure 4 — Imported Coal Consumption, Line 3 (Apr–Aug 2022).</strong> A step-change reduction of ~15% (from ~490 TPD to ~420 TPD) sustained across the full program duration following AF program initiation on 1st June 2022. Dashed lines mark pre-blend and post-blend period averages.
+      </figcaption>
+    </figure>
 
-    <div class="placeholder">
-      <div class="ph-icon">💰</div>
-      <p class="ph-tag">Figure 5 — Net Daily Savings</p>
-      <p class="ph-desc">Your daily net savings chart showing the ramp from zero baseline to Rs. 1,880,000+ at peak integration. Replace with your actual Figure 5 image.</p>
-    </div>
+    <figure class="chart-figure">
+      <img src="/assets/figure-5-net-daily-savings.png" 
+           alt="Figure 5: Net daily savings for Line 3 from April to August 2022, showing a ramp from zero baseline to an average of 1.83 Million PKR per day, peaking at 2.7 Million PKR following program initiation">
+      <figcaption class="chart-caption">
+        <strong>Figure 5 — Net Daily Savings, Line 3 AF Program (Apr–Aug 2022).</strong> Daily net savings ramped from a zero baseline to an average of ~Rs. 1.83 Million/day (peaking at Rs. 2.7 Million) during the optimised program period, following initiation on 1st June 2022. The dashed line marks the program average.
+      </figcaption>
+    </figure>
+
   </section>
-
   <div class="divider"></div>
 
 
