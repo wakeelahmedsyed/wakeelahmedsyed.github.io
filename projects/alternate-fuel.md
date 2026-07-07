@@ -420,7 +420,7 @@
   <!-- DATA VISUALISATIONS -->
   <section class="section" aria-labelledby="viz-h">
     <p class="sec-label"><span class="sec-num">09</span> Data Visualisations</p>
-    <h2 id="viz-h">Five Charts That Tell the Story</h2>
+    <h2 id="viz-h">Four Charts That Tell the Story</h2>
 
     <p>The following charts were produced from daily production data logged across the April–August 2022 program period. They represent the live evidence base on which all fuel mix decisions were made.</p>
 
