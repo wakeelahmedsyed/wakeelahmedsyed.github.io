@@ -205,11 +205,11 @@
 
   <h1>
     Alternate Fuel Integration — Line 3 Pyro-Processing<br>
-    <em>20% Fuel Cost Reduction During a Global Supply Chain Crisis</em>
+    <em>25+% Fuel Cost Reduction During a Global Supply Chain Crisis</em>
   </h1>
 
   <p class="header-sub">
-    During COVID-19 supply disruptions, led a data-driven alternate fuel integration program on a 4,000 TPD cement line — replacing 30–35% of imported coal with locally available fuels while maintaining clinker quality and achieving Rs. 880,000+ in daily savings.
+    During COVID-19 supply disruptions, led a data-driven alternate fuel integration program on a 4,000 TPD cement line, replacing 25–30% of imported coal with locally available fuels while maintaining clinker quality and achieving PKR 1,800,000+ in daily savings.
   </p>
 
   <a href="/" class="back-link">&nbsp;Back to Portfolio</a>
@@ -241,7 +241,7 @@
     <div class="achievement-banner">
       <p class="ach-label">Core Achievement</p>
       <blockquote>
-        When COVID-19 disrupted Pakistan's imported coal supply chain and prices surged, the plant faced an existential cost problem on its 4,000 TPD Line 3. By designing and executing a <strong>5-month data-driven alternate fuel integration program</strong> — blending mud press, bio-coal, Balochistan coal, shredded tires, and coal tar into the pyro-processing fuel mix — imported coal dependency was reduced by <strong>25–30%</strong>, alternative fuel share grew <strong>30x</strong>, and the plant achieved <strong>Rs. 880,000+ in net daily savings</strong> while holding clinker quality within specification.
+        When COVID-19 disrupted Pakistan's imported coal supply chain and prices surged, the plant faced an existential cost problem on its 4,000 TPD Line 3. By designing and executing a <strong>5-month data-driven alternate fuel integration program</strong> — blending mud press, bio-coal, Balochistan coal, shredded tires, and coal tar into the pyro-processing fuel mix; imported coal dependency was reduced by <strong>25–30%</strong>, alternative fuel share grew <strong>30x</strong>, and the plant achieved <strong>Rs. 1,800,000+ in net daily savings</strong> while holding clinker quality within specification.
       </blockquote>
     </div>
   </section>
@@ -274,27 +274,27 @@
       <div class="stat-card">
         <div class="stat-num">30<sup>x</sup></div>
         <div class="stat-unit">Alt. Fuel Growth</div>
-        <p>Alternative fuel share grew from less than 1.5% to 30–35% of total fuel mix over 5 months</p>
+        <p>Alternative fuel share grew to 25-30% of total fuel mix over 5 months</p>
       </div>
       <div class="stat-card">
         <div class="stat-num">25<sup>%</sup></div>
         <div class="stat-unit">Coal Reduction</div>
-        <p>Imported coal consumption dropped from 480–500 TPD to 380–425 TPD without clinker quality loss</p>
+        <p>Imported coal consumption dropped from 485–505 TPD to 395–435 TPD without clinker quality loss</p>
       </div>
       <div class="stat-card">
         <div class="stat-num">20<sup>%</sup></div>
         <div class="stat-unit">Cost Saving</div>
-        <p>Fuel cost per ton of clinker reduced from Rs. 5,500 to Rs. 4,500 — a 15–20% sustained reduction</p>
+        <p>Fuel cost per ton of clinker reduced from Rs. 5,360 to Rs. 4,880; a 8–9% sustained reduction</p>
       </div>
       <div class="stat-card">
-        <div class="stat-num">880K<sup>+</sup></div>
+        <div class="stat-num">1,800K<sup>+</sup></div>
         <div class="stat-unit">Rs. Daily Savings</div>
-        <p>Net daily savings achieved at peak alternate fuel integration — from zero baseline at project start</p>
+        <p>Net daily savings achieved at peak alternate fuel integration, from zero baseline at project start</p>
       </div>
       <div class="stat-card">
         <div class="stat-num">13<sup>%</sup></div>
         <div class="stat-unit">CO₂ Reduction</div>
-        <p>CO₂ emissions per ton of clinker fell from 2.86 kg to 2.50 kg — a 10–15% emissions improvement</p>
+        <p>CO₂ emissions per ton of clinker fell from 2.86 kg to 2.50 kg, a 10–15% emissions improvement</p>
       </div>
     </div>
   </section>
@@ -314,7 +314,7 @@
       In 2021–2022, COVID-19 created a compounding supply chain crisis. Global logistics disruptions drove imported coal prices to unsustainable levels while simultaneously making supply volumes unreliable. The plant faced a straightforward but urgent problem: <strong>the fuel it was built around was becoming too expensive and too unpredictable to continue relying on.</strong>
     </p>
     <p>
-      Locally available alternatives — mud press, bio-coal, Balochistan coal, shredded tires, coal tar — existed in abundance and at a fraction of the cost. The engineering challenge was that these fuels carry significantly higher impurity loads and inconsistent calorific values. In pyro-processing, fuel inconsistency translates directly into kiln temperature fluctuations, cyclone blockages from elevated ash content, and — most critically — C3S content variability in the clinker, which governs cement strength and market quality standards.
+      Locally available alternatives; mud press, bio-coal, Balochistan coal, shredded tires, coal tar, existed in abundance and at a fraction of the cost. The engineering challenge was that these fuels carry significantly higher impurity loads and inconsistent calorific values. In pyro-processing, fuel inconsistency translates directly into kiln temperature fluctuations, cyclone blockages from elevated ash content, and, most critically, C3S content variability in the clinker, which governs cement strength and market quality standards.
     </p>
 
     <div class="note-box green">
@@ -322,7 +322,7 @@
     </div>
 
     <div class="note-box blue">
-      <strong>Why This Was Difficult:</strong> There was no existing playbook for this specific fuel blend at this plant. Every fuel combination required fresh data collection, real-time kiln monitoring, and iterative adjustment of fuel mix ratios — while the kiln kept running and the plant kept shipping cement.
+      <strong>Why This Was Difficult:</strong> There was no existing playbook for this specific fuel blend at this plant. Every fuel combination required fresh data collection, real-time kiln monitoring, and iterative adjustment of fuel mix ratios, while the kiln kept running and the plant kept shipping cement.
     </div>
   </section>
 
@@ -335,7 +335,7 @@
     <h2 id="method-h">Five Months of Live Experimental Data Collection on a Running Kiln</h2>
 
     <p>
-      The program ran from April to August 2022 on Line 3. Every decision was data-driven — no fuel mix change was made without corresponding production data to justify it. The methodology was iterative: introduce a new fuel combination, collect data for a defined period, analyse the impact on kcal/kg clinker and C3S, adjust the mix ratio, and repeat.
+      The program ran from April to August 2022 on Line 3. Every decision was data-driven; no fuel mix change was made without corresponding production data to justify it. The methodology was iterative: introduce a new fuel combination, collect data for a defined period, analyse the impact on kcal/kg clinker and C3S, adjust the mix ratio, and repeat.
     </p>
 
     <div class="method-steps">
@@ -344,7 +344,7 @@
         <div class="step-num">01</div>
         <div class="step-body">
           <h3>Baseline Establishment — Imported Coal Benchmark</h3>
-          <p>Before any alternative fuel was introduced, a full operational baseline was established for Line 3 running on imported coal. Key performance indicators were logged daily: clinker production volume (TPD), imported coal consumed (tons), specific heat consumption (kcal/kg clinker), and C3S content from QC sampling. This baseline became the reference point against which all subsequent fuel blend performance was measured. It also established the "before" cost structure — Rs. 5,500 per ton of clinker fuel cost — used in all savings calculations.</p>
+          <p>Before any alternative fuel was introduced, a full operational baseline was established for Line 3 running on imported coal. Key performance indicators were logged daily: clinker production volume (TPD), imported coal consumed (tons), specific heat consumption (kcal/kg clinker), and C3S content from QC sampling. This baseline became the reference point against which all subsequent fuel blend performance was measured. It also established the "before" cost structure, Rs. 5,360 per ton of clinker fuel cost, used in all savings calculations.</p>
           <div class="step-tags">
             <span class="step-tag">KPI Baselining</span>
             <span class="step-tag">Specific Heat Consumption</span>
@@ -358,7 +358,7 @@
         <div class="step-num">02</div>
         <div class="step-body">
           <h3>Alternative Fuel Characterisation — NCV Testing and Impurity Profiling</h3>
-          <p>Each candidate alternative fuel was characterised before introduction to the kiln: mud press, bio-coal, Balochistan coal, shredded tires, and coal tar. Net Calorific Values (NCVs) were measured for each fuel type to establish their heat contribution per ton. Impurity profiles — particularly ash content and sulfur — were assessed for their potential impact on clinker chemistry and cyclone performance. This characterisation allowed the construction of theoretical blend ratios before live trials, reducing the risk of uncontrolled kiln fluctuations during the first introduction of each new fuel.</p>
+          <p>Each candidate alternative fuel was characterised before introduction to the kiln: mud press, bio-coal, Balochistan coal, shredded tires, and coal tar. Net Calorific Values (NCVs) were measured for each fuel type to establish their heat contribution per ton. Impurity profiles, particularly ash content and sulfur, were assessed for their potential impact on clinker chemistry and cyclone performance. This characterisation allowed the construction of theoretical blend ratios before live trials, reducing the risk of uncontrolled kiln fluctuations during the first introduction of each new fuel.</p>
           <div class="step-tags">
             <span class="step-tag">NCV Analysis</span>
             <span class="step-tag">Ash Content Assessment</span>
@@ -372,7 +372,7 @@
         <div class="step-num">03</div>
         <div class="step-body">
           <h3>Iterative Blend Introduction — Monitored Live Trials</h3>
-          <p>Alternative fuels were introduced incrementally — not as a single large substitution, but as a controlled, stepwise increase in the blend ratio. Each incremental increase was monitored over a defined observation period before the next step was taken. Daily data collection tracked the six core parameters simultaneously: clinker production, imported coal consumed, alternative fuel volumes by type, composite NCV of the blend, kcal/kg clinker (the primary efficiency metric), and net cost savings versus the imported coal baseline. The kiln's response to each blend adjustment — particularly its kcal/kg stability and C3S output — determined whether the mix ratio could be increased further or required adjustment.</p>
+          <p>Alternative fuels were introduced incrementally, not as a single large substitution, but as a controlled, stepwise increase in the blend ratio. Each incremental increase was monitored over a defined observation period before the next step was taken. Daily data collection tracked the six core parameters simultaneously: clinker production, imported coal consumed, alternative fuel volumes by type, composite NCV of the blend, kcal/kg clinker (the primary efficiency metric), and net cost savings versus the imported coal baseline. The kiln's response to each blend adjustment — particularly its kcal/kg stability and C3S output — determined whether the mix ratio could be increased further or required adjustment.</p>
           <div class="step-tags">
             <span class="step-tag">Incremental Substitution</span>
             <span class="step-tag">Real-Time KPI Tracking</span>
@@ -400,7 +400,7 @@
         <div class="step-num">05</div>
         <div class="step-body">
           <h3>Cost and Quality Validation — Proving the Business Case</h3>
-          <p>At each milestone blend ratio, a full cost and quality validation was conducted. C3S content from QC sampling was compared against the established baseline to confirm clinker quality was within specification. Fuel cost per ton of clinker was recalculated using the actual blend NCV and fuel volumes consumed that day. Net daily savings versus the imported coal baseline were computed and logged. This running financial record — which ultimately reached Rs. 880,000+ per day — served as the evidence base for the project's continued operation and its eventual recommendation for permanent implementation as standard operating procedure on Line 3.</p>
+          <p>At each milestone blend ratio, a full cost and quality validation was conducted. C3S content from QC sampling was compared against the established baseline to confirm clinker quality was within specification. Fuel cost per ton of clinker was recalculated using the actual blend NCV and fuel volumes consumed that day. Net daily savings versus the imported coal baseline were computed and logged. This running financial record, which ultimately reached Rs. 1,800,000+ per day, served as the evidence base for the project's continued operation and its eventual recommendation for permanent implementation as standard operating procedure on Line 3.</p>
           <div class="step-tags">
             <span class="step-tag">C3S Quality Validation</span>
             <span class="step-tag">Cost-Per-Ton Calculation</span>
@@ -438,13 +438,13 @@
     <div class="placeholder">
       <div class="ph-icon">⬇️</div>
       <p class="ph-tag">Figure 4 — Imported Coal Reduction Trend</p>
-      <p class="ph-desc">Your daily imported coal consumption chart showing the sustained decline from the 480–500 TPD baseline. Replace with your actual Figure 4 image.</p>
+      <p class="ph-desc">Your daily imported coal consumption chart showing the sustained decline from the 485–505 TPD baseline. Replace with your actual Figure 4 image.</p>
     </div>
 
     <div class="placeholder">
       <div class="ph-icon">💰</div>
       <p class="ph-tag">Figure 5 — Net Daily Savings</p>
-      <p class="ph-desc">Your daily net savings chart showing the ramp from zero baseline to Rs. 880,000+ at peak integration. Replace with your actual Figure 5 image.</p>
+      <p class="ph-desc">Your daily net savings chart showing the ramp from zero baseline to Rs. 1,880,000+ at peak integration. Replace with your actual Figure 5 image.</p>
     </div>
   </section>
 
@@ -472,21 +472,21 @@
         <tbody>
           <tr>
             <td>Imported Coal Usage</td>
-            <td>480–500 TPD</td>
-            <td>380–425 TPD</td>
-            <td class="imp-good">↓ 25–30% reduction</td>
+            <td>485–505 TPD</td>
+            <td>395–435 TPD</td>
+            <td class="imp-good">↓ 15–20% reduction</td>
           </tr>
           <tr>
             <td>Alternative Fuel Share</td>
-            <td>&lt; 1.5%</td>
-            <td>30–35%</td>
+            <td>&lt; 0%</td>
+            <td>25–30%</td>
             <td class="imp-good">↑ 30× increase</td>
           </tr>
           <tr>
             <td>Fuel Cost per Ton Clinker</td>
-            <td>Rs. 5,500</td>
-            <td>Rs. 4,500</td>
-            <td class="imp-good">↓ 15–20% saving</td>
+            <td>Rs. 5,360</td>
+            <td>Rs. 4,880</td>
+            <td class="imp-good">↓ 8–9% saving</td>
           </tr>
           <tr>
             <td>CO₂ Emissions per Ton Clinker</td>
@@ -497,7 +497,7 @@
           <tr>
             <td>Net Daily Savings</td>
             <td>Rs. 0 (baseline)</td>
-            <td>Rs. 880,000+</td>
+            <td>Rs. 1,800,000+</td>
             <td class="imp-good">↑ Full incremental gain</td>
           </tr>
           <tr>
@@ -528,17 +528,17 @@
       <div class="result-cell">
         <div class="result-big">30×</div>
         <div class="result-unit">Alt. Fuel Growth</div>
-        <p class="result-desc">Alternative fuel share grew from under 1.5% to 30–35% of the pyro-processing fuel mix — a 30-fold increase in 5 months on a live production line</p>
+        <p class="result-desc">Alternative fuel share grew from under 1% to 20–30% of the pyro-processing fuel mix, a 30-fold increase in 5 months on a live production line</p>
       </div>
       <div class="result-cell">
-        <div class="result-big">880K</div>
+        <div class="result-big">1,800K</div>
         <div class="result-unit">Rs. Per Day Saved</div>
-        <p class="result-desc">Peak daily net savings versus the imported coal baseline — sustained at the optimised blend ratio while clinker quality remained within commercial specification</p>
+        <p class="result-desc">Peak daily net savings versus the imported coal baseline, sustained at the optimised blend ratio while clinker quality remained within commercial specification</p>
       </div>
       <div class="result-cell">
         <div class="result-big">13%</div>
         <div class="result-unit">CO₂ Reduction</div>
-        <p class="result-desc">CO₂ emissions per ton of clinker reduced from 2.86 to 2.50 kg — an unintended but significant environmental benefit of the fuel substitution program</p>
+        <p class="result-desc">CO₂ emissions per ton of clinker reduced from 2.86 to 2.50 kg, an unintended but significant environmental benefit of the fuel substitution program</p>
       </div>
     </div>
   </section>
@@ -555,37 +555,37 @@
       <div class="finding-card">
         <span class="find-pill find">Finding</span>
         <h3>The 30% Blend Threshold Is the Stability Ceiling</h3>
-        <p>Data across the 5-month program consistently showed that kiln temperature stability and C3S quality could be maintained at or below a 30% alternative fuel blend ratio. Above 30%, ash loading and NCV inconsistency created instability that required operational intervention to manage. This 30% ceiling became the recommended maximum blend ratio for standard operating conditions on Line 3 — a data-validated limit, not an estimate.</p>
+        <p>Data across the 5-month program consistently showed that kiln temperature stability and C3S quality could be maintained at or below a 30% alternative fuel blend ratio. Above 30%, ash loading and NCV inconsistency created instability that required operational intervention to manage. This 30% ceiling became the recommended maximum blend ratio for standard operating conditions on Line 3, a data-validated limit, not an estimate.</p>
       </div>
 
       <div class="finding-card">
         <span class="find-pill find">Finding</span>
         <h3>CO₂ Reduction Was an Unplanned Output</h3>
-        <p>The 10–15% reduction in CO₂ emissions per ton of clinker was not a primary project objective — it was a consequence of replacing fossil-derived imported coal with biomass-based alternatives (mud press, bio-coal, wooden chips) that carry lower carbon intensities. This finding reframes the project's value: what began as a cost optimisation exercise under supply chain pressure was also, structurally, a decarbonisation intervention. It provides a data-backed case for alternative fuel integration as a dual cost and emissions lever.</p>
+        <p>The 10–15% reduction in CO₂ emissions per ton of clinker was not a primary project objective, it was a consequence of replacing fossil-derived imported coal with biomass-based alternatives (mud press, bio-coal, wooden chips) that carry lower carbon intensities. This finding reframes the project's value: what began as a cost optimisation exercise under supply chain pressure was also, structurally, a decarbonisation intervention. It provides a data-backed case for alternative fuel integration as a dual cost and emissions lever.</p>
       </div>
 
       <div class="finding-card challenge">
         <span class="find-pill challenge">Challenge</span>
         <h3>Ash-Driven Cyclone Blockage Is the Primary Operational Risk</h3>
-        <p>The most operationally significant challenge encountered was the cyclone blockage risk from elevated ash content in alternative fuels. Ash accumulation in the preheater cyclone stages is not a gradual, predictable process — it can escalate rapidly, and a full blockage event carries an estimated 2-day production shutdown cost that would significantly erode the daily savings. Managing this risk required increased frequency of cyclone inspection, adjusted air flow protocols, and defined intervention triggers based on pressure differential monitoring.</p>
+        <p>The most operationally significant challenge encountered was the cyclone blockage risk from elevated ash content in alternative fuels. Ash accumulation in the preheater cyclone stages is not a gradual, predictable process, it can escalate rapidly, and a full blockage event carries an estimated 2-day production shutdown cost that would significantly erode the daily savings. Managing this risk required increased frequency of cyclone inspection, adjusted air flow protocols, and defined intervention triggers based on pressure differential monitoring.</p>
       </div>
 
       <div class="finding-card challenge">
         <span class="find-pill challenge">Challenge</span>
         <h3>Manual Data Logging Introduced Systematic Error</h3>
-        <p>The absence of real-time automated fuel flow metering for alternative fuel streams meant that early-phase data collection relied on manual recording by shift operators. This introduced discrepancies in fuel usage tracking — particularly for mud press and bio-coal, which were fed by less instrumented systems. The inconsistency in early data created noise in the kcal/kg calculations for the first 3–4 weeks of the program. This experience directly informed the case for digital monitoring system upgrades, which was included in the final project recommendations.</p>
+        <p>The absence of real-time automated fuel flow metering for alternative fuel streams meant that early-phase data collection relied on manual recording by shift operators. This introduced discrepancies in fuel usage tracking, particularly for mud press and bio-coal, which were fed by less instrumented systems. The inconsistency in early data created noise in the kcal/kg calculations for the first 3–4 weeks of the program. This experience directly informed the case for digital monitoring system upgrades, which was included in the final project recommendations.</p>
       </div>
 
       <div class="finding-card learning">
         <span class="find-pill learn">Learning</span>
         <h3>Supply Chain Disruption as a Process Engineering Catalyst</h3>
-        <p>The COVID-19 coal supply crisis, while operationally stressful, functioned as an accelerant for a process improvement that management had previously considered too operationally risky to attempt at scale. The constraint of having no viable alternative forced a structured engineering approach that would not have been prioritised in normal operating conditions. The program's success — demonstrated by the data — established alternative fuel integration as permanent standard operating practice, converting a crisis response into a structural cost advantage.</p>
+        <p>The COVID-19 coal supply crisis, while operationally stressful, functioned as an accelerant for a process improvement that management had previously considered too operationally risky to attempt at scale. The constraint of having no viable alternative forced a structured engineering approach that would not have been prioritised in normal operating conditions. The program's success, demonstrated by the data — established alternative fuel integration as permanent standard operating practice, converting a crisis response into a structural cost advantage.</p>
       </div>
 
       <div class="finding-card learning">
         <span class="find-pill learn">Learning</span>
         <h3>Iterative Data Collection Outperforms Theoretical Modelling for Novel Fuel Blends</h3>
-        <p>Pre-program NCV analysis and theoretical blend ratio calculations provided a useful starting point but could not predict the actual kiln response with sufficient precision for operational decision-making. The calorific variability between batches of the same alternative fuel type, combined with the interaction effects between different fuel types in the same blend, required live empirical data to characterise accurately. The lesson is that for novel fuel combinations in live pyro-processing, real-time data collection must drive blend decisions — theoretical models set the initial conditions, but operational data closes the loop.</p>
+        <p>Pre-program NCV analysis and theoretical blend ratio calculations provided a useful starting point but could not predict the actual kiln response with sufficient precision for operational decision-making. The calorific variability between batches of the same alternative fuel type, combined with the interaction effects between different fuel types in the same blend, required live empirical data to characterise accurately. The lesson is that for novel fuel combinations in live pyro-processing, real-time data collection must drive blend decisions, theoretical models set the initial conditions, but operational data closes the loop.</p>
       </div>
 
     </div>
@@ -599,7 +599,7 @@
     <p class="sec-label"><span class="sec-num">13</span> Project Context</p>
     <h2 id="context-h">Scope, Setting &amp; Deliverables</h2>
 
-    <p>This project was executed as a live industrial improvement program on Line 3 at Attock Cement Pakistan Limited (ACPL), one of Pakistan's largest cement manufacturing facilities. All data was collected from live production operations — no simulations or modelled values were used for primary performance tracking.</p>
+    <p>This project was executed as a live industrial improvement program on Line 3 at Attock Cement Pakistan Limited (ACPL), one of Pakistan's largest cement manufacturing facilities. All data was collected from live production operations, no simulations or modelled values were used for primary performance tracking.</p>
 
     <div class="context-grid">
       <div class="context-card">
@@ -631,7 +631,7 @@
         <span class="ctx-icon">✅</span>
         <h3>Outcome</h3>
         <p>Program validated and recommended for permanent implementation as Line 3 standard operating procedure.</p>
-        <span class="outcome-pill">Rs. 880,000+ daily savings sustained</span>
+        <span class="outcome-pill">Rs. 1,800,000+ daily savings sustained</span>
       </div>
     </div>
 
