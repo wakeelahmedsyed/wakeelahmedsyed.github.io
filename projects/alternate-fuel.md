@@ -478,7 +478,7 @@
           </tr>
           <tr>
             <td>Alternative Fuel Share</td>
-            <td>&lt; 0%</td>
+            <td>0%</td>
             <td>25–30%</td>
             <td class="imp-good">↑ 30× increase</td>
           </tr>
