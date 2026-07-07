@@ -256,9 +256,9 @@
 
     <figure class="chart-figure">
       <img src="/assets/figure2-fuel-mix-transition.png" 
-         alt="Line 3 fuel mix transition from April to August 2022, showing imported coal share declining from 100% to approximately 65% as alternative fuels grew to 30-35% of total mix following program initiation on 1st June 2022">
+         alt="Line 3 fuel mix transition from April to August 2022, showing imported coal share declining from 100% to approximately 70% as alternative fuels grew to 25-30% of total mix following program initiation on 1st June 2022">
       <figcaption class="chart-caption">
-        <strong>The whole story in one image.</strong> Line 3 fuel mix transitioned from 100% imported coal (April–May) to a stabilised 65–70% imported / 30–35% alternative fuel blend following program initiation on 1st June 2022.
+        <strong>The whole story in one image.</strong> Line 3 fuel mix transitioned from 100% imported coal (April–May) to a stabilised 70–75% imported / 25–30% alternative fuel blend following program initiation on 1st June 2022.
       </figcaption>
     </figure>
   </section>
