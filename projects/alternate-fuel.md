@@ -282,7 +282,7 @@
         <p>Imported coal consumption dropped from 485–505 TPD to 395–435 TPD without clinker quality loss</p>
       </div>
       <div class="stat-card">
-        <div class="stat-num">20<sup>%</sup></div>
+        <div class="stat-num">8-9<sup>%</sup></div>
         <div class="stat-unit">Cost Saving</div>
         <p>Fuel cost per ton of clinker reduced from Rs. 5,360 to Rs. 4,880; a 8–9% sustained reduction</p>
       </div>
