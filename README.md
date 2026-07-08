@@ -47,7 +47,7 @@
             <a href="./projects/alternate-fuel.html"><img src="assets/chris-linnett-EeqxbxILScA-unsplash.jpg" width="100%" style="border-radius: 4px;"></a>
             <p style="font-size: 0.76em; margin-top: 8px; line-height: 1.4;">
               <b>⛽ Alternate Fuel Integration</b><br>
-              Rs. 880K+ Daily Savings · 30% Coal Reduction · CO₂ ↓13%
+              1.8M PKR+ Daily Savings · 30% Imported Coal Dependency Reduction · CO₂ ↓13%
             </p>
           </td>
           <td width="50%" valign="top" style="background: #fcfcfc; border: 1px solid #efefef; border-radius: 8px; padding: 10px;">
