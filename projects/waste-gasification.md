@@ -507,7 +507,34 @@
       margin: 0 auto;
       line-height: 1.55;
     }
-
+    
+        /* VISUAL FIGURES */
+    .viz-figure {
+      margin-top: 1.5rem;
+      border: 1px solid var(--border);
+      border-radius: var(--r-lg);
+      overflow: hidden;
+      background: var(--bg);
+    }
+    .viz-figure img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .viz-figure figcaption {
+      padding: 1.1rem 1.4rem 1.3rem;
+      border-top: 1px solid var(--border);
+      background: var(--bg-subtle);
+    }
+    .viz-figure .ph-tag { margin-bottom: 0.4rem; }
+    .viz-figure .ph-desc {
+      font-style: normal;
+      color: var(--text);
+      max-width: none;
+      margin: 0;
+      text-align: left;
+    }
+    
     /* TRL TABLE */
     .table-caption {
       font-size: 0.82rem;
@@ -893,30 +920,35 @@
 
     <!-- REPLACE src WITH YOUR ACTUAL IMAGE PATHS -->
 
-    <div class="placeholder">
-      <div class="ph-icon">🥧</div>
-      <p class="ph-tag">Visual 1 — Where Does Germany's Plastic Waste Go?</p>
-      <p class="ph-desc">
-        Donut chart: 38.4% Material Recycling (green) · 61.1% Energy Recovery / Incineration (red) · 0.5% Eliminated / Landfill (grey). Data: Umweltbundesamt, 2023. Replace this placeholder with your exported chart image.
-      </p>
-    </div>
+<figure class="viz-figure">
+      <img src="assets/wg-figure-1.png" alt="Donut chart showing German waste breakdown: 82% processed, of which 69% recycled, 13% energy recovery (incineration), and 18% landfilled or disposed">
+      <figcaption>
+        <p class="ph-tag">Visual 1 — Not All Recovery Is Recycling: German Waste Breakdown</p>
+        <p class="ph-desc">
+          Donut chart of Germany's 363 million tonnes of treated waste in 2024: 69% actually recycled back into material, 13% "energy recovery" (incineration), and 18% landfilled or otherwise disposed. A secondary breakdown shows incinerated waste by source. Source: Destatis (2024).
+        </p>
+      </figcaption>
+    </figure>
 
-    <div class="placeholder">
-      <div class="ph-icon">⚙️</div>
-      <p class="ph-tag">Visual 2 — How Waste Gasification Works</p>
-      <p class="ph-desc">
-        Process flow diagram: [Non-Recyclable Plastic] → [Gasifier: Heat, No Combustion] → [Syngas] → [New Plastics · Methanol · Sustainable Aviation Fuel]. Replace this placeholder with your exported PowerPoint or draw.io flow diagram.
-      </p>
-    </div>
+    <figure class="viz-figure">
+      <img src="assets/wg-figure-2.png" alt="Process flow diagram of waste gasification, from non-recyclable waste through a gasifier to syngas and final products">
+      <figcaption>
+        <p class="ph-tag">Visual 2 — How Waste Gasification Works</p>
+        <p class="ph-desc">
+          Process flow diagram: [Non-Recyclable Waste] → [Gasifier: Heat, No Combustion] → [Syngas] → [New Plastics · Methanol · Sustainable Aviation Fuel]. Instrumentation includes feed rate control (FE), pressure/temperature monitoring (PT/TT) on the gasifier, and gas analysis (AT) on the syngas stream, with solid char/ash byproduct drawn off separately.
+        </p>
+      </figcaption>
+    </figure>
 
-    <div class="placeholder">
-      <div class="ph-icon">📊</div>
-      <p class="ph-tag">Visual 3 — Incineration vs. Gasification: What Happens to 1 Tonne of Plastic?</p>
-      <p class="ph-desc">
-        Clustered bar chart comparing incineration (high CO₂, no circular product) against gasification (lower CO₂, new circular product). Germany already sends 1.36 million tonnes to cement kilns as substitute fuel — gasification recovers the same material as a product rather than burning it. Replace this placeholder with your exported chart image.
-      </p>
-    </div>
-
+    <figure class="viz-figure">
+      <img src="assets/wg-figure-3.png" alt="Comparison table of waste processing pathways showing whether each creates reusable products, reduces net carbon emissions, and counts as recycling">
+      <figcaption>
+        <p class="ph-tag">Visual 3 — Breakdown of Distinct Waste Processing Pathways</p>
+        <p class="ph-desc">
+          Comparison table across five pathways — landfill disposal, thermal disposal, treatment for disposal, energy recovery (incineration), and material recovery (gasification) — scored on whether they create reusable products, reduce net carbon emissions, and count as recycling. Only material recovery via gasification scores "Yes" on all three criteria.
+        </p>
+      </figcaption>
+    </figure>
   </section>
 
   <div class="divider"></div>
