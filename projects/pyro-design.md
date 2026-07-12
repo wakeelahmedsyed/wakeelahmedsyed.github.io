@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pyro-Processing Heat Balance &amp; Cooler Fan Audit | Process Engineering Portfolio</title>
+  <title>Pyro-Processing Heat Balance &amp; Cyclone Preheater Audit | Process Engineering Portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet" />
 
@@ -33,9 +33,6 @@
       --w:             900px;
     }
 
-    /* ═══════════════════════════════════════════════════════════
-       RESET & BASE
-    ═══════════════════════════════════════════════════════════ */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { font-size: 16px; scroll-behavior: smooth; }
     body {
@@ -48,9 +45,6 @@
     a { color: var(--green); text-decoration: none; font-weight: 600; }
     a:hover { text-decoration: underline; }
 
-    /* ═══════════════════════════════════════════════════════════
-       ① ②  HEADER  —  Field · Sub-field  +  Main Head
-    ═══════════════════════════════════════════════════════════ */
     .site-header {
       background: linear-gradient(135deg, var(--blue) 0%, var(--green) 100%);
       padding: 4rem 2rem 3.5rem;
@@ -66,8 +60,6 @@
         radial-gradient(ellipse at 82% 20%, rgba(255,255,255,0.05) 0%, transparent 48%);
       pointer-events: none;
     }
-
-    /* ① Field – Sub-field */
     .field-label {
       font-size: 0.72rem;
       font-weight: 700;
@@ -78,8 +70,6 @@
     }
     .field-label span { color: rgba(255,255,255,0.92); }
     .field-divider { display: inline-block; margin: 0 0.55em; opacity: 0.45; }
-
-    /* ② Main Head */
     .site-header h1 {
       font-family: var(--font-head);
       font-size: clamp(1.75rem, 4vw, 2.65rem);
@@ -116,18 +106,11 @@
     .back-link:hover { color: #fff; text-decoration: none; }
     .back-link::before { content: '←'; }
 
-    /* ═══════════════════════════════════════════════════════════
-       CONTENT WRAPPER
-    ═══════════════════════════════════════════════════════════ */
     .wrap {
       max-width: var(--w);
       margin: 0 auto;
       padding: 0 1.5rem 5rem;
     }
-
-    /* ═══════════════════════════════════════════════════════════
-       SHARED SECTION CHROME
-    ═══════════════════════════════════════════════════════════ */
     .section { padding: 3rem 0 0; }
     .divider {
       height: 1px;
@@ -173,9 +156,6 @@
     p { margin-bottom: 1rem; font-size: 0.97rem; }
     p:last-child { margin-bottom: 0; }
 
-    /* ═══════════════════════════════════════════════════════════
-       ③  SKILLS BAR
-    ═══════════════════════════════════════════════════════════ */
     .skills-section {
       padding: 2rem 0;
       border-bottom: 1px solid var(--border);
@@ -215,9 +195,6 @@
       flex-shrink: 0;
     }
 
-    /* ═══════════════════════════════════════════════════════════
-       ④  ACHIEVEMENT STATEMENT
-    ═══════════════════════════════════════════════════════════ */
     .achievement-banner {
       background: linear-gradient(115deg, var(--blue) 0%, var(--green) 100%);
       border-radius: var(--r-lg);
@@ -259,9 +236,6 @@
       font-style: normal;
     }
 
-    /* ═══════════════════════════════════════════════════════════
-       ⑤  INFOGRAPHIC PLACEHOLDER
-    ═══════════════════════════════════════════════════════════ */
     .infographic-placeholder {
       border: 2px dashed var(--border);
       border-radius: var(--r-lg);
@@ -320,9 +294,6 @@
       display: inline-block;
     }
 
-    /* ═══════════════════════════════════════════════════════════
-       ⑥  PROJECT STATS  (4 cards)
-    ═══════════════════════════════════════════════════════════ */
     .stats-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(165px, 1fr));
@@ -358,9 +329,6 @@
     }
     .stat-card p { font-size: 0.82rem; color: var(--text); line-height: 1.45; margin: 0; }
 
-    /* ═══════════════════════════════════════════════════════════
-       ⑦  PROBLEM STATEMENT — callout boxes
-    ═══════════════════════════════════════════════════════════ */
     .note-box {
       background: var(--bg-subtle);
       border: 1px solid var(--border);
@@ -376,9 +344,6 @@
     .note-box.amber { border-left: 3px solid var(--amber); }
     .note-box strong { color: var(--text-dark); }
 
-    /* ═══════════════════════════════════════════════════════════
-       ⑧  METHODOLOGY — numbered steps
-    ═══════════════════════════════════════════════════════════ */
     .method-steps {
       display: grid;
       gap: 0;
@@ -436,9 +401,6 @@
       border-color: rgba(200,134,26,0.25);
     }
 
-    /* ═══════════════════════════════════════════════════════════
-       ⑨  QUANTIFIABLE RESULTS — tables
-    ═══════════════════════════════════════════════════════════ */
     .table-caption {
       font-size: 0.82rem;
       font-weight: 700;
@@ -500,7 +462,6 @@
     }
     .deviation-note strong { color: var(--text-dark); }
 
-    /* inline placeholder (below tables) */
     .placeholder {
       border: 2px dashed var(--border);
       border-radius: var(--r-lg);
@@ -527,9 +488,6 @@
       line-height: 1.55;
     }
 
-    /* ═══════════════════════════════════════════════════════════
-       ⑩  3 MAIN RESULTS STATS — headline trio
-    ═══════════════════════════════════════════════════════════ */
     .results-trio {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -572,9 +530,6 @@
     }
     .result-desc { font-size: 0.82rem; color: var(--text); line-height: 1.45; }
 
-    /* ═══════════════════════════════════════════════════════════
-       ⑪  KEY FINDINGS GRID
-    ═══════════════════════════════════════════════════════════ */
     .findings-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(258px, 1fr));
@@ -618,9 +573,6 @@
     .find-pill.find  { background: var(--accent-bg);     color: var(--green-mid); border: 1px solid #b8dfc8; }
     .find-pill.learn { background: rgba(21,87,153,0.06); color: var(--blue); border: 1px solid rgba(21,87,153,0.15); }
 
-    /* ═══════════════════════════════════════════════════════════
-       ⑫  PROJECT CONTEXT — scope cards
-    ═══════════════════════════════════════════════════════════ */
     .context-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -653,9 +605,6 @@
       padding: 0.2rem 0.75rem;
     }
 
-    /* ═══════════════════════════════════════════════════════════
-       FOOTER
-    ═══════════════════════════════════════════════════════════ */
     .site-footer {
       background: var(--bg-subtle);
       border-top: 1px solid var(--border);
@@ -665,9 +614,6 @@
     }
     .site-footer p { font-size: 0.81rem; color: var(--text-muted); margin: 0; }
 
-    /* ═══════════════════════════════════════════════════════════
-       ANIMATIONS
-    ═══════════════════════════════════════════════════════════ */
     @keyframes fadeUp {
       from { opacity: 0; transform: translateY(16px); }
       to   { opacity: 1; transform: translateY(0); }
@@ -679,9 +625,6 @@
     .site-header > *:nth-child(4) { animation-delay: 0.35s; }
     .site-header > *:nth-child(5) { animation-delay: 0.42s; }
 
-    /* ═══════════════════════════════════════════════════════════
-       RESPONSIVE
-    ═══════════════════════════════════════════════════════════ */
     @media (max-width: 600px) {
       .site-header { padding: 2.6rem 1.2rem 2.2rem; }
       .wrap { padding: 0 1rem 4rem; }
@@ -697,26 +640,21 @@
 <body>
 
 
-<!-- ════════════════════════════════════════════════════════════
-     ①  FIELD – SUB-FIELD    +    ②  MAIN HEAD
-════════════════════════════════════════════════════════════ -->
 <header class="site-header">
 
-  <!-- ① Field – Sub-field -->
   <p class="field-label">
     Process Engineering
     <span class="field-divider">/</span>
     <span>Industrial Plant Design &amp; Design Verification</span>
   </p>
 
-  <!-- ② Main Head -->
   <h1>
     Process Design &amp; Verification: 4,000 TPD Greenfield Pyro-Processing Unit<br>
     <em>Independent Design Cross-Validation of Cement Manufacturing Line Installed In 2023</em>
   </h1>
 
   <p class="header-sub">
-    Independent cross-verification of process design of a $50M, 4,000 TPD greenfield pyro-processing line installed by HCRDI. Mass and energy balance calculations and pressure profile of the 5-stage preheater system helped identify a 2.47 mbar discrepancy in the first two cyclone stages. Based on findings, the cyclone stack was modified during installation, resulting in a 3.6% reduction in specific energy consumption.
+    Independent cross-verification of process design of a $50M, 4,000 TPD greenfield pyro-processing line installed by HCRDI. Mass and energy balance calculations and pressure profile of the 5-stage preheater system identified a 2.47 mbar discrepancy in the first two cyclone stages — with HCRDI's design overstating system resistance at roughly 10 mbar against a cross-checked figure of roughly 7 mbar. Based on findings, the cyclone stack was modified during installation, resulting in a 3.6% reduction in specific energy consumption.
   </p>
 
   <a href="/" class="back-link">&nbsp;Back to Portfolio</a>
@@ -726,9 +664,6 @@
 
 <main class="wrap">
 
-  <!-- ════════════════════════════════════════════════════════════
-       ③  SKILLS USED IN THIS PROJECT
-  ════════════════════════════════════════════════════════════ -->
   <div class="skills-section">
     <p class="skills-label"><span class="sec-num">03</span> Skills Used in This Project</p>
     <div class="pills">
@@ -742,16 +677,13 @@
   </div>
 
 
-  <!-- ════════════════════════════════════════════════════════════
-       ④  ACHIEVEMENT STATEMENT
-  ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="ach-h">
     <p class="sec-label"><span class="sec-num">04</span> Achievement</p>
     <h2 id="ach-h">Recalibrating a $50M Cement Line: From Contractor Assumptions to First-Principles Efficiency</h2>
     <div class="achievement-banner">
       <p class="ach-label">Core Achievement</p>
       <blockquote>
-        By identifying a <strong>25% overestimation</strong> between contractor-designed pressure drops and first-principles fluid dynamics—traced to oversized cyclone dimensions in the primary preheater stages—the 4,000 TPD pyro-processing model was <strong>recalibrated to field-accurate specifications, securing a 3.6 % reduction in specific energy consumption</strong>. This independent verification demonstrated that the HCRDI-designed cyclone stack was mismatched to the ID fan’s pressure-flow equilibrium, providing the technical mandate to modify the stack during the installation of the $50M greenfield line. To institutionalize this precision, I engineered an automated multi-module Python/Excel suite that synchronized raw mix chemistry with combustion kinetics and draft resistance, transforming a capital risk into a high-efficiency operational asset.
+        By identifying a <strong>~25-30% overestimation</strong> between contractor-designed pressure drops and first-principles fluid dynamics — traced to oversized cyclone dimensions in the primary preheater stages — the 4,000 TPD pyro-processing model was <strong>recalibrated to field-accurate specifications, securing a 3.6% reduction in specific energy consumption</strong>. This independent verification demonstrated that the HCRDI-designed cyclone stack was mismatched to the ID fan's pressure-flow equilibrium, providing the technical mandate to modify the stack during the installation of the $50M greenfield line. To institutionalize this precision, I engineered an automated multi-module Python/Excel suite that synchronized raw mix chemistry with combustion kinetics and draft resistance, transforming a capital risk into a high-efficiency operational asset.
       </blockquote>
     </div>
   </section>
@@ -759,9 +691,6 @@
   <div class="divider"></div>
 
 
-  <!-- ════════════════════════════════════════════════════════════
-       ⑤  INFOGRAPHIC  — placeholder for user to add their own
-  ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="infog-h">
     <p class="sec-label"><span class="sec-num">05</span> Project Overview</p>
     <h2 id="infog-h">The Full Picture at a Glance</h2>
@@ -770,7 +699,7 @@
       <p class="infog-ph-tag">Your Infographic Goes Here</p>
       <p class="infog-ph-title">Project Overview Infographic</p>
       <p class="infog-ph-desc">
-        Replace this block with your visual overview of the project — for example, a three-panel diagram showing the problem (CCR displaying inflated flows), the method (physical fan audit + pitot traverse + RCA), and the result (corrected heat balance + fan unit recommendation). An SVG, PNG, or embedded HTML visual all work here.
+        Replace this block with your visual overview of the project — for example, a three-panel diagram showing the problem (HCRDI's oversized cyclone design), the method (independent cyclone re-sizing + ΔP recalculation + ID fan cross-check), and the result (corrected cyclone dimensions + energy reduction). An SVG, PNG, or embedded HTML visual all work here.
       </p>
       <span class="infog-ph-note">📐 Recommended dimensions: 860 × 360 px or wider</span>
     </div>
@@ -779,9 +708,6 @@
   <div class="divider"></div>
 
 
-  <!-- ════════════════════════════════════════════════════════════
-       ⑥  PROJECT STATS  (4 cards)
-  ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="stats-h">
     <p class="sec-label"><span class="sec-num">06</span> Project at a Glance</p>
     <h2 id="stats-h">Four Numbers That Define the Work</h2>
@@ -812,9 +738,6 @@
   <div class="divider"></div>
 
 
-  <!-- ════════════════════════════════════════════════════════════
-       ⑦  PROBLEM STATEMENT & COMMISSION
-  ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="problem-h">
     <p class="sec-label"><span class="sec-num">07</span> Problem Statement &amp; Commission</p>
     <h2 id="problem-h">The $50M Blind Spot: Preventing Embedded Energy Inefficiencies in Unverified EPC Designs</h2>
@@ -834,9 +757,6 @@
   <div class="divider"></div>
 
 
-  <!-- ════════════════════════════════════════════════════════════
-       ⑧  METHODOLOGY & EXECUTION
-  ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="method-h">
     <p class="sec-label"><span class="sec-num">08</span> Methodology &amp; Execution</p>
     <h2 id="method-h">Auditing Process Design Before the Concrete Sets — A Five-Phase Process</h2>
@@ -851,7 +771,7 @@
         <div class="step-num">01</div>
         <div class="step-body">
           <h3>Cyclone Preheater Audit</h3>
-          <p>Re-sized all five cyclone stages independently using gas velocity principles and separation efficiency requirements. Generated parametric graphs in Python plotting particle size distribution curves against varying cyclone heights and diameters. This graphical analysis revealed that Stages 1 and 2 were oversized, producing a calculated system ΔP of 7–8 mbar — significantly lower than HCRDI's stated design value of ~10 mbar — indicating a misalignment between the cyclone stack and the ID fan's operating point.</p>
+          <p>Re-sized all five cyclone stages independently using gas velocity principles and separation efficiency requirements. Generated parametric graphs in Python plotting particle size distribution curves against varying cyclone heights and diameters. This graphical analysis revealed that Stages 1 and 2 were oversized, producing a calculated system ΔP of roughly 7–8 mbar — significantly lower than HCRDI's stated design value of roughly 10 mbar, a discrepancy of about 2.47 mbar — indicating a misalignment between the cyclone stack and the ID fan's operating point.</p>
           <div class="step-tags">
             <span class="step-tag blue">Gas-Solid Separation Design</span>
             <span class="step-tag blue">Cyclone Sizing</span>
@@ -893,7 +813,7 @@
         <div class="step-num">04</div>
         <div class="step-body">
           <h3>Automated Calculation Tool Development</h3>
-          <p>Developed a comprehensive, fully automated Excel and Python-based engineering suite with the following modules: <strong>Raw Mix Design, Combustion Volume Calculations, Kiln Refractory Brick Installation Guide, ID Fan Sizing & Power Specification, Cyclone Preheater Sizing, Silo Design, etc. </strong>. The tool was structured so that changes to any input cell automatically cascade through all dependent calculations, making it immediately reusable for future plant designs or modifications..</p>
+          <p>Developed a comprehensive, fully automated Excel and Python-based engineering suite with the following modules: <strong>Raw Mix Design, Combustion Volume Calculations, Kiln Refractory Brick Installation Guide, ID Fan Sizing & Power Specification, Cyclone Preheater Sizing, Silo Design, etc.</strong> The tool was structured so that changes to any input cell automatically cascade through all dependent calculations, making it immediately reusable for future plant designs or modifications.</p>
           <div class="step-tags">
             <span class="step-tag blue">Advanced Microsoft Excel</span>
             <span class="step-tag blue">Python</span>
@@ -924,19 +844,15 @@
   <div class="divider"></div>
 
 
-  <!-- ════════════════════════════════════════════════════════════
-       ⑨  QUANTIFIABLE RESULTS
-  ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="results-h">
     <p class="sec-label"><span class="sec-num">09</span> Quantifiable Results</p>
-    <h2 id="results-h"> The Summary That Made the Case</h2>
+    <h2 id="results-h">The Summary That Made the Case</h2>
 
     <p>
-      The two tables below are the core quantitative evidence of this project. The first exposes the per-fan discrepancy between what the CCR displayed and what physical measurement confirmed. The second is the resulting heat balance — which reached 0.25% closure <em>only because</em> the corrected fan flows were used as inputs, replacing the PLC's inflated estimates.
+      The table below is the core quantitative evidence of this project: the discrepancy between HCRDI's submitted preheater design and the independently cross-checked design, and the operational outcomes that followed once the cyclone correction was implemented.
     </p>
 
-    <!-- FAN FLOW AUDIT TABLE -->
-    <p class="table-caption">Fan Flow Audit — CCR Display vs. Physical Measurement</p>
+    <p class="table-caption">Preheater &amp; Draft System Audit — HCRDI Design vs. Cross-Checked Design</p>
     <div class="table-wrap">
       <table>
         <thead>
@@ -951,8 +867,8 @@
           <tr>
             <td>System ΔP (5-stage PH)</td>
             <td>~10 mbar</td>
-            <td>~7 mbar</td>
-            <td>2–3 mbar discrepancy identified</td>
+            <td>~7–8 mbar</td>
+            <td>2.47 mbar discrepancy identified</td>
           </tr>
           <tr>
             <td>Cyclone Stages Affected</td>
@@ -963,7 +879,7 @@
           <tr>
             <td>Specific Energy Consumption</td>
             <td>Baseline</td>
-            <td>3% reduction</td>
+            <td>3.6% reduction</td>
             <td>Permanent operational saving</td>
           </tr>
           <tr>
@@ -971,12 +887,6 @@
             <td>90–95% target</td>
             <td>Validated</td>
             <td>Confirmed achievable with corrected design</td>
-          </tr>
-          <tr>
-            <td>Fan 5</td>
-            <td>42.17</td>
-            <td>1.23</td>
-            <td>13.92</td>
           </tr>
           <tr>
             <td>ID Fan Synchronization</td>
@@ -994,21 +904,16 @@
       </table>
     </div>
 
-    <div class="deviation-note">
-      <strong>Note on the 18% headline figure:</strong> The 18% represents the average overstatement across the four most significantly affected fans (Fans 1, 2, 4, and 7), where the PLC fan curve produced estimates 18–28% above physically measured values. This is the operationally meaningful signal: the fans that operators were most confident about were, on average, delivering 18% less air than the control system indicated. Fan 5's understatement (−13%) confirms this is a fleet-wide fan curve calibration problem, not a single-instrument error.
-    </div>
-
-
     <div class="placeholder">
       <div class="ph-icon">📊</div>
-      <p class="ph-tag">Suggested Visual — CCR vs. Measured Fan Flow Comparison</p>
-      <p class="ph-desc">A grouped bar chart with Fan 1–7 on the x-axis and m³/s on the y-axis. Two bars per fan — CCR reading (blue) vs. physical measurement (green). Fan 4's 28% overstatement and Fan 5's understatement will immediately stand out as the most visually striking anomalies. Build from Table 2 data in Python matplotlib or Excel.</p>
+      <p class="ph-tag">Suggested Visual — Particle Size Distribution vs. Cyclone Dimensions</p>
+      <p class="ph-desc">A parametric line chart plotting particle separation efficiency against cyclone height/diameter combinations for Stages 1 and 2 — the graph that made the oversizing visually undeniable to management. Build from your Python parametric sizing output.</p>
     </div>
 
     <div class="placeholder">
-      <div class="ph-icon">🌊</div>
-      <p class="ph-tag">Suggested Visual — Sankey Diagram</p>
-      <p class="ph-desc">A proportional heat flow diagram: inputs on the left (combustion dominates at 783 Kcal/kg), outputs on the right. Clinker formation and preheater exhaust should be the dominant branches; radiation/convection and vent losses are narrower offshoots. Build with SankeyMATIC (free, browser-based) or Python plotly.graph_objects.</p>
+      <div class="ph-icon">📉</div>
+      <p class="ph-tag">Suggested Visual — System ΔP by Preheater Stage</p>
+      <p class="ph-desc">A grouped bar chart showing HCRDI's design ΔP vs. the cross-checked ΔP across all five cyclone stages, isolating where Stages 1 and 2 diverge from the rest of the string. Build in Python matplotlib or Excel.</p>
     </div>
 
   </section>
@@ -1016,9 +921,6 @@
   <div class="divider"></div>
 
 
-  <!-- ════════════════════════════════════════════════════════════
-       ⑩  3 MAIN RESULTS STATS
-  ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="trio-h">
     <p class="sec-label"><span class="sec-num">10</span> Headline Results</p>
     <h2 id="trio-h">Three Numbers That Tell the Story</h2>
@@ -1029,9 +931,9 @@
         <p class="result-desc">The corrected cyclone dimensions, implemented during installation, directly reduced the energy demand per tonne of clinker produced — a permanent, compounding operational saving across the plant's entire operational life</p>
       </div>
       <div class="result-cell">
-        <div class="result-big">2-3 mbar</div>
+        <div class="result-big">2.47 mbar</div>
         <div class="result-unit">Delta P Discrepancy Identified</div>
-        <p class="result-desc">Independent re-calculation of the 5-stage preheater string revealed that HCRDI's design overstated system resistance by 2–3 mbar, traced to oversized Stage 1 and Stage 2 cyclones — a finding that would have forced the ID fan into a suboptimal operating region indefinitely</p>
+        <p class="result-desc">Independent re-calculation of the 5-stage preheater string revealed that HCRDI's design overstated system resistance by roughly 2.47 mbar (~10 mbar design vs. ~7–8 mbar cross-checked), traced to oversized Stage 1 and Stage 2 cyclones — a finding that would have forced the ID fan into a suboptimal operating region indefinitely</p>
       </div>
       <div class="result-cell">
         <div class="result-big">$50 M</div>
@@ -1044,9 +946,6 @@
   <div class="divider"></div>
 
 
-  <!-- ════════════════════════════════════════════════════════════
-       ⑪  KEY FINDINGS & LEARNING OUTCOMES
-  ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="findings-h">
     <p class="sec-label"><span class="sec-num">11</span> Key Findings &amp; Learning Outcomes</p>
     <h2 id="findings-h">What the Audit Actually Uncovered</h2>
@@ -1061,7 +960,7 @@
       <div class="finding-card">
         <span class="find-pill find">Finding</span>
         <h3>EPC Contractor Designs Require Independent Verification</h3>
-        <p>Even on a $50M project delivered by a specialized EPC contractor, meaningful design deviations can exist. The 2–3 mbar discrepancy was not caught in HCRDI's internal review process, demonstrating that owner-side independent <strong>engineering capability is a critical risk management function</strong>, not a redundancy.</p>
+        <p>Even on a $50M project delivered by a specialized EPC contractor, meaningful design deviations can exist. The 2.47 mbar discrepancy was not caught in HCRDI's internal review process, demonstrating that owner-side independent <strong>engineering capability is a critical risk management function</strong>, not a redundancy.</p>
       </div>
 
       <div class="finding-card">
@@ -1094,15 +993,12 @@
   <div class="divider"></div>
 
 
-  <!-- ════════════════════════════════════════════════════════════
-       ⑫  PROJECT CONTEXT
-  ════════════════════════════════════════════════════════════ -->
   <section class="section" aria-labelledby="context-h">
     <p class="sec-label"><span class="sec-num">12</span> Project Context</p>
     <h2 id="context-h">Scope, Setting &amp; Deliverables</h2>
 
     <p>
-      This audit was commissioned by AGM Production and executed as a live engineering assignment on an operating cement production line. Every parameter was physically measured or sourced from plant Quality Control and CCR records — no modelled or assumed values were used for primary flowrate inputs. Each card below represents a discrete, evidenced deliverable.
+      This audit was commissioned by AGM Production and executed as a live engineering assignment on an operating cement production line. Every parameter was physically measured or sourced from plant Quality Control and process records — no modelled or assumed values were used for primary design inputs. Each card below represents a discrete, evidenced deliverable.
     </p>
 
     <div class="context-grid">
@@ -1144,13 +1040,10 @@
 </main>
 
 
-<!-- ════════════════════════════════════════════════════════════
-     FOOTER
-════════════════════════════════════════════════════════════ -->
 <footer class="site-footer">
   <p>
     Process Engineering Portfolio &nbsp;·&nbsp;
-    Process Design &amp; & Verification — : 4,000 TPD Greenfield Pyro-Processing Unit &nbsp;·&nbsp;
+    Process Design &amp; Verification: 4,000 TPD Greenfield Pyro-Processing Unit &nbsp;·&nbsp;
     <a href="/">← Back to Portfolio</a>
   </p>
 </footer>
