@@ -921,7 +921,7 @@
     <!-- REPLACE src WITH YOUR ACTUAL IMAGE PATHS -->
 
 <figure class="viz-figure">
-      <img src="assets/wg-figure-1.png" alt="Donut chart showing German waste breakdown: 82% processed, of which 69% recycled, 13% energy recovery (incineration), and 18% landfilled or disposed">
+      <img src="/assets/wg-figure-1.png" alt="Donut chart showing German waste breakdown: 82% processed, of which 69% recycled, 13% energy recovery (incineration), and 18% landfilled or disposed">
       <figcaption>
         <p class="ph-tag">Visual 1 — Not All Recovery Is Recycling: German Waste Breakdown</p>
         <p class="ph-desc">
@@ -931,7 +931,7 @@
     </figure>
 
     <figure class="viz-figure">
-      <img src="assets/wg-figure-2.png" alt="Process flow diagram of waste gasification, from non-recyclable waste through a gasifier to syngas and final products">
+      <img src="/assets/wg-figure-2.png" alt="Process flow diagram of waste gasification, from non-recyclable waste through a gasifier to syngas and final products">
       <figcaption>
         <p class="ph-tag">Visual 2 — How Waste Gasification Works</p>
         <p class="ph-desc">
@@ -941,7 +941,7 @@
     </figure>
 
     <figure class="viz-figure">
-      <img src="assets/wg-figure-3.png" alt="Comparison table of waste processing pathways showing whether each creates reusable products, reduces net carbon emissions, and counts as recycling">
+      <img src="/assets/wg-figure-3.png" alt="Comparison table of waste processing pathways showing whether each creates reusable products, reduces net carbon emissions, and counts as recycling">
       <figcaption>
         <p class="ph-tag">Visual 3 — Breakdown of Distinct Waste Processing Pathways</p>
         <p class="ph-desc">
